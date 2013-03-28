@@ -1,6 +1,6 @@
 <div class="navbar">
 	<div class="navbar-inner">
-		<div class="container">
+		<div class="max-width container">
 			<div class="nav-collapse collapse">
 				<ul class="nav">
 					<?php
