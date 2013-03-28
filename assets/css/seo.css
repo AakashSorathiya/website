@@ -1,0 +1,127 @@
+body { background: whiteSmoke; }
+
+h1, h2, h3, h4, h5 { font-family: "Times New Roman", serif; font-weight: normal; }
+h1 { font-size: 32.5px; }
+h2 { font-size: 26.6px; }
+h3 { font-size: 20.7px; }
+
+.max-width
+{
+	width: auto;
+	max-width: 1024px;
+}
+
+/*------------------------------------------------------
+ *	BANNER
+ */
+.banner
+{
+	background: #513127;
+	color: #fff;
+	padding: 10px 0;
+}
+
+.banner .seo-banner
+{
+	font-size: 50px;
+}
+
+.banner .rit-banner
+{
+	margin-left: 40px;
+	font-size: 20px;
+}
+
+.banner .seo-mast
+{
+	background: url(../img/SEO-white.png) no-repeat;
+	background-size: auto 60px;
+	height: 60px;
+	width: 420px;
+}
+
+.banner .social
+{
+	line-height: 60px;
+}
+
+.banner .social a
+{
+	margin-right: 15px;
+	color: #FFF;
+}
+
+.banner .social a:hover
+{
+	color: #08C;
+	text-decoration: none;
+}
+
+.banner .social form
+{
+	margin: 0;
+}
+
+.banner .input-append .add-on,
+.banner .input-prepend .add-on,
+.banner .input-append .btn,
+.banner .input-prepend .btn
+{
+	vertical-align: middle;
+}
+
+/*------------------------------------------------------
+ *	MAIN
+ */
+.page
+{
+	background: #FFF;
+	border-right: 1px solid #D6D6D6;
+	border-bottom: 1px solid #D6D6D6;
+	border-left: 1px solid #D6D6D6;
+	padding: 20px 0;
+}
+
+.page h1 b,
+.page h2 b,
+.page h3 b,
+.page h4 b,
+.page h5 b
+{ font-weight: normal; }
+
+.sidebar-nav
+{
+	padding: 9px 0;
+}
+
+.nav-header a
+{
+	color: #666;
+}
+
+/*------------------------------------------------------
+ *	FOOTER
+ */
+.footer {
+	padding: 20px 0;
+}
+
+.footer p {
+	margin: 0;
+}
+
+
+/*------------------------------------------------------
+ *	Overwritten Styles
+ */
+.sidebar-nav.well {
+	background: none;
+	border: none;
+	box-shadow: none;
+}
+
+.nav-header {
+	border-bottom: 1px solid #e3e3e3;
+	color: #666;
+	font-size: 12pt;
+}

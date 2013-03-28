@@ -1,0 +1,4 @@
+#AuthType shibboleth
+#ShibRequireSession On
+#SSLRequireSSL
+#require valid-user
