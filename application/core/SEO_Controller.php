@@ -24,7 +24,8 @@ class SEO_Controller extends CI_Controller {
 
 		// Initialize a data set to be sent to the page
 		$this->data = array(
-			'body' => $this->load->view( 'errors/404', '', TRUE )
+			'body' => $this->load->view( 'errors/404', '', TRUE ),
+			'isMobileBrowser' => $this->agent->is_mobile()
 		);
 	}
 }
