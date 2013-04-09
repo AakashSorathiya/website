@@ -1,7 +1,6 @@
 <?php
 	echo meta( 'viewport', 'width=320.1, initial-scale=1.0, user-scalable=no' );
 
-		
 	echo meta( 'apple-mobile-web-app-capable', 'yes' );
 	echo meta( 'apple-mobile-web-app-title', 'RITSEO' );
 
@@ -15,13 +14,18 @@
 	echo link_tag( array( 'href' => 'assets/img/ios/Icon@2x.png', 'rel' => 'apple-touch-icon', 'sizes' => '114x114' ) );
 
 	echo link_tag( 'assets/css/bootstrap-responsive.min.css', 'stylesheet', 'text/css' );
+	echo link_tag( 'assets/css/add2home.css', 'stylesheet', 'text/css' );
 ?>
 
 <style>
 	body {
 		padding-left: 0;
 		padding-right: 0;
-		overflow: 
+		padding-bottom: 10px;
+	}
+
+	body img {
+		width: 98%;
 	}
 
 	.banner .seo-mast {
@@ -44,6 +48,15 @@
 </style>
 
 <script>
+	// Add to home screen configuration
+	var addToHomeConfig = {
+		animationIn		: 'bubble',
+		animationOut	: 'fade',
+		lifespan		: 10000,
+		expire			: 2,
+		touchIcon		: true
+	};
+
 	/**
 	 *	Lazy Initialization
 	 */
@@ -104,11 +117,6 @@
 			}
 		);
 	}
-
-	/**
-	 * Fix the links to be AJAX requests instead of hyperlinks
-	 */
-	function fixLinks()
-	{
-	}
 </script>
+
+<?php echo script_tag( 'assets/js/add2home.js' ); ?>

@@ -6,6 +6,6 @@
 
 <?php require_once 'navigation.php'; ?>
 
-<div class="content container">
+<div id="ajaxTarget" class="content container">
 	<?php echo $body ?>
 </div>
