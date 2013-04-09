@@ -25,7 +25,6 @@
 		echo meta( 'robots', 'index, nofollow' );
 
 		echo link_tag( 'assets/css/bootstrap.min.css', 'stylesheet', 'text/css' );
-		echo link_tag( 'assets/css/bootstrap-responsive.min.css', 'stylesheet', 'text/css' );
 		echo link_tag( 'assets/css/font-awesome-ie7.min.css', 'stylesheet', 'text/css' );
 		echo link_tag( 'assets/css/font-awesome.min.css', 'stylesheet', 'text/css' );
 		echo link_tag( 'assets/css/seo.css', 'stylesheet', 'text/css' );
