@@ -13,7 +13,7 @@
 		$template = 'templates/mobile/template.php';
 	}
 ?>
-<html>
+<html manifest="./assets/cache.manifest">
 	<head>
 		<title>Student Employment Office</title>
 
