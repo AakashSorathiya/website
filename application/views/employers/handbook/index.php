@@ -482,7 +482,7 @@
 </p>
 <p>
 	The student wage schedule is reviewed and if appropriate, will be revised. Changes in the
-	<a href="/seo/resources/wageschedule.php">Student Wage Schedule</a> are implemented at the discretion of the
+	<a href="/seo/assets/docs/student-wage-schedule.pdf">Student Wage Schedule</a> are implemented at the discretion of the
 	Institute, and can be viewed on the SEO website.
 </p>
 <p>
