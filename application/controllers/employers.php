@@ -22,6 +22,25 @@ class Employers extends SEO_Controller {
 	}
 
 	/**
+	 *	Search for the department
+	 */
+	public function department( $q = "" )
+	{
+		// Initialize an array for the departments
+		$depts = array();
+
+		// Echo out the department search
+		$results = $this->DepartmentModel->search(array( "name" => urldecode( $q ) ));
+
+		// Loop through the result list
+		foreach( $results as $result )
+			array_push( $depts, $result->name );
+
+		// Output the departments
+		echo json_encode($depts);
+	}
+
+	/**
 	 *	Post On Campus Page
 	 */
 	public function postOnCampus()

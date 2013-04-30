@@ -32,6 +32,7 @@
 
 		echo script_tag( 'assets/js/jquery.min.js' );
 		echo script_tag( 'assets/js/bootstrap.min.js' );
+		echo script_tag( 'assets/js/json2.min.js' );
 
 		require_once $header;
 	?>

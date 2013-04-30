@@ -111,9 +111,32 @@
 	<div class="control-group">
 		<label class="control-label" for="department">Department *</label>
 		<div class="controls">
-			<input required type="text" id="department" name="department" class="input-block-level" value="<?php echo set_value( 'department' ); ?>" />
+			<input required type="text" id="department" data-provide="typeahead" autocomplete="off" name="department" class="input-block-level" value="<?php echo set_value( 'department' ); ?>" />
 		</div>
 	</div>
+
+	<script>
+		$( function() {
+			// Bind the typeahead
+			$( "#department" ).typeahead(
+				{
+					source: function (query, typeahead) {
+						// Process the query
+						var url = '?/employers/department/' + query;
+
+						// Return the ajax request
+						return $.get( url, {}, function (data) {
+							// Parse the data
+							var parsed = JSON.parse( data );
+
+							// Process the returned data
+							return typeahead( parsed );
+						} );
+					}
+				}
+			);
+		} );
+	</script>
 
 	<div class="control-group">
 		<label class="control-label" for="phone">Phone *</label>

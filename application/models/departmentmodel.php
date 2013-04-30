@@ -45,6 +45,20 @@ class DepartmentModel extends SEO_Model {
 	}
 
 	/**
+	 *	Get similar instances
+	 */
+	function search( $where ) {
+		// Set the search
+		$this->db->like( $where );
+
+		// Create a query
+		$query = $this->db->get( $this->TABLE, 8 );
+
+		// Return the results
+		return $query->result();
+	}
+
+	/**
 	 *  Insert an instance into the database
 	 */
 	function insert( $obj ) {
