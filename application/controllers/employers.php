@@ -182,11 +182,6 @@ class Employers extends SEO_Controller {
 	 */
 	public function postOffCampus()
 	{
-		// Set up sime basic information
-		$this->email->to('967dept@rit.edu');
-		$this->email->from('967dept@rit.edu', 'Website: Post Off Campus');
-		$this->email->subject( 'New Off Campus Position' );
-
 		// Set the form validation rules
 		// Company Information
 		$this->form_validation->set_rules( 'company_name', 'company name', 'required|trim|xss_clean' );
@@ -202,15 +197,15 @@ class Employers extends SEO_Controller {
 		$this->form_validation->set_rules( 'fax', 'fax' ,'trim|xss_clean' );
 		
 		// Job Information
-		$this->form_validation->set_rules( 'title', 'job title', 'trim|xss_clean' );
-		$this->form_validation->set_rules( 'start_date', 'start date', 'trim|xss_clean' );
-		$this->form_validation->set_rules( 'shift_hours', 'hours per week', 'trim|xss_clean' );
+		$this->form_validation->set_rules( 'title', 'job title', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'start_date', 'start date', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'shift_hours', 'hours per week', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'work_hours', 'work hours', 'trim|xss_clean' );
-		$this->form_validation->set_rules( 'wage', 'wage', 'trim|xss_clean' );
+		$this->form_validation->set_rules( 'wage', 'wage', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'shift_days[]', 'shift days', 'trim|xss_clean' );
-		$this->form_validation->set_rules( 'category', 'job category', 'trim|xss_clean' );
-		$this->form_validation->set_rules( 'summary', 'position summary', 'trim|xss_clean' );
-		$this->form_validation->set_rules( 'requirements', 'position requirements', 'trim|xss_clean' );
+		$this->form_validation->set_rules( 'category', 'job category', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'summary', 'position summary', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'requirements', 'position requirements', 'required|trim|xss_clean' );
 
 		// Attempt to rum the validation
 		if( $this->form_validation->run() == FALSE ) {
@@ -230,6 +225,11 @@ class Employers extends SEO_Controller {
 			// Load the form by default
 			$this->data['body'] = $this->load->view('postings/offcampus/post/form', $data, TRUE );
 		} else {
+			// Set up sime basic information
+			$this->email->to('967dept@rit.edu');
+			$this->email->from('967dept@rit.edu', 'Website: Post Off Campus');
+			$this->email->subject( 'New Off Campus Position' );
+
 			// Localize the shift
 			$shift_days = $this->input->post( 'shift_days', TRUE );
 
