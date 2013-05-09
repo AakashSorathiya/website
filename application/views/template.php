@@ -29,10 +29,12 @@
 		echo link_tag( 'assets/css/font-awesome.min.css', 'stylesheet', 'text/css' );
 		echo link_tag( 'assets/css/seo.css', 'stylesheet', 'text/css' );
 		echo link_tag( 'http://fonts.googleapis.com/css?family=Gentium+Basic', 'stylesheet', 'text/css' );
+		echo link_tag( 'assets/css/bootswitch.css', 'stylesheet', 'text/css' );
 
 		echo script_tag( 'assets/js/jquery.min.js' );
 		echo script_tag( 'assets/js/bootstrap.min.js' );
 		echo script_tag( 'assets/js/json2.min.js' );
+		echo script_tag( 'assets/js/bootswitch.js' );
 
 		require_once $header;
 	?>

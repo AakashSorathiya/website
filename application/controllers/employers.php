@@ -281,6 +281,23 @@ class Employers extends SEO_Controller {
 		$this->load->view('template', $this->data);
 	}
 
+	public function submitJobDescription()
+	{
+		// Get the departments
+		$departments = $this->DepartmentModel->get();
+
+		// Create data for the view
+		$data = array(
+			'departments' => to_options_array( $departments, 'ID', 'name' )
+		);
+
+		// Load the body of the page
+		$this->data['body'] = $this->load->view( 'postings/jobdescription/form.php', $data, TRUE );
+
+		// Load the page
+		$this->load->view('template', $this->data);
+	}
+
 	/**
 	 *	Employer Resources Page
 	 */

@@ -9,7 +9,7 @@ class Twitter extends CI_Controller {
 	{
 		// Require the necessary scripts
 		require_once( getcwd() . "/assets/api/simple_html_dom.php" );
-		// require_once( getcwd() . "/assets/api/twitter.php" );
+		require_once( getcwd() . "/assets/api/twitter.php" );
 
 		// Define a path to the jobs
 		$path = getcwd() . "/jobs/";

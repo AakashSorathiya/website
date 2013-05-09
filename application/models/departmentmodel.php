@@ -20,6 +20,9 @@ class DepartmentModel extends SEO_Model {
 		// Construct an initial query
 		$query = NULL;
 
+		// Always sort on the name
+		$this->db->order_by('name');
+
 		// Check for a defined attribute
 		if( $where != NULL ) {
 			// Create a query based on the passed in attributes
