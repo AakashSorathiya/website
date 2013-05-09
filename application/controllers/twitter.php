@@ -2,17 +2,26 @@
 
 // Create a twitter controller
 class Twitter extends CI_Controller {
+	/**
+	 *
+	 */
 	public function update()
 	{
 		// Require the necessary scripts
 		require_once( getcwd() . "/assets/api/simple_html_dom.php" );
-		require_once( getcwd() . "/assets/api/twitter.php" );
+		// require_once( getcwd() . "/assets/api/twitter.php" );
 
 		// Define a path to the jobs
 		$path = getcwd() . "/jobs/";
 
+		// Output some feedback
+		echo '<p>Retreiving the current jobs...</p>';
+
 		// Use the helper method
 		$postedJobs = $this->getCurrentlyPostedJobs( $path );
+
+		// Output some feedback
+		echo '<p>Processing the current jobs...</p>';
 
 		// Process the posted jobs
 		$this->processJobs( $postedJobs );
@@ -79,7 +88,7 @@ class Twitter extends CI_Controller {
 				"job_number" => $input[0]->value,
 				"category" => $category,
 				"added" => time(),
-				"twitter_code" => TwitterEnumerations::ADDED
+				"twitter_code" => TwitterEnumerations::NEW_POSTING
 			);
 
 			// Append the job number to the 
@@ -95,78 +104,143 @@ class Twitter extends CI_Controller {
 	 */
 	private function processJobs( $jobs )
 	{
-		// Get all the twitter queue items
-		$allTweets = $this->TwitterQueue->get();
+		///
+		///
+		///
 
-		// Loop through all the tweeted jobs changing them to the remove code
-		foreach( $allTweets as $tweet )
-		{
-			// Set the remove code
-			$tweet->twitter_code = TwitterEnumerations::REMOVE;
+		echo '<p>Processing the current postings...</p>';
+		$this->processPostings();
+		echo '<p>All postings flagged as previously posted</p>';
 
-			// Update the database instance
-			$this->TwitterQueue->update( $tweet );
-		}
+		///
+		///
+		///
 
-		// Output a status
-		echo( 'FLAGGED ALL JOBS FOR REMOVAL<BR><BR>' );
+		echo '<p>Handling the new jobs coming in...</p>';
+		$this->handleIncomingJobs( $jobs );
+		echo '<p>All incoming jobs have been handled</p>';
 
-		// Loop through each of the jobs
-		foreach( $jobs as $job )
-		{
-			// Try to get one instance
-			$result = $this->TwitterQueue->get( array('job_number' => $job['job_number']) );
+		///
+		///
+		///
 
-			// Check the number of results returned
-			if( count( $result ) == 0 ) {				// TWEET MUST BE SENT OUT
-				// Output a status
-				echo( 'INSERTING: ' . $job['job_number'] ."<BR>" );
-
-				// Insert the instance into the database
-				$this->TwitterQueue->insert( $job );
-
-				// Send a tweet for the current position
-				$this->sendTweet( $job );
-
-			} else {									// TWEET HAS BEEN SENT OUT
-				// Output a status
-				echo( 'NOT INSERTING: ' . $job['job_number'] ."<BR><BR>" );
-
-				// Try to get one instance
-				$result = $this->TwitterQueue->getOne( array('job_number' => $job['job_number']) );
-
-				// Change the twitter code
-				$result->twitter_code = TwitterEnumerations::EXISTING;
-
-				// Update the result
-				$this->TwitterQueue->update( $result );
-			}
-		}
-
-		// Output a status
-		echo( "<BR>" );
-		echo( 'FINISHED THE INSERTION PROCESS<BR><BR>' );
-
-		// Get all the twitter queue items for deletion
-		$deleteTweets = $this->TwitterQueue->get( array('twitter_code' => TwitterEnumerations::REMOVE) );
-
-		// Loop through each tweet that needs to be deleted
-		foreach( $deleteTweets as $tweet )
-		{
-			// Output the status
-			echo( 'DELETING JOB NUMBER ' . $tweet->job_number . ' TWEET FROM THE QUEUE<BR>' );
-
-			// Delete the tweet
-			$this->TwitterQueue->delete( $tweet );
-		}
-
-		// Echo the break point
-		echo( 'FINISHED DELETING UNNEEDED TWEET ENTRIES<BR><BR>' );
+		echo '<p>Handling all previously posted positions...</p>';
+		$this->handleUnpostedPositions();
+		echo '<p>All previously posted positions have been unposted</p>';
 	}
 
-	/**
-	 *	Send a Tweet about a Particular Job
-	 */
+	private function processPostings()
+	{
+		// Get all positions
+		$postings = array_merge(
+			$this->TwitterQueue->get(
+				array(
+					"twitter_code" => TwitterEnumerations::NEW_POSTING	// Grabs older enumerations
+				)
+			),
+			$this->TwitterQueue->get(
+				array(
+					'twitter_code' => TwitterEnumerations::POSTED
+				)
+			)
+		);
+
+		// Flag all prior positions as previously posted
+		foreach( $postings as $post )
+		{
+			// Set the twitter code
+			$post->twitter_code = TwitterEnumerations::PREVIOUS_POSTING;
+
+			// Update the entry in the table
+			$this->TwitterQueue->update( $post );
+
+			// Unpost the postion
+			echo '<p>Job number ' . $post->job_number . ' has been marked as previously posted</p>';
+		}
+	}
+
+	private function handleIncomingJobs( $jobs )
+	{
+		// Loop through each of the positions
+		foreach( $jobs as $job )
+		{
+			// Get all the entries with the job number
+				// SHOULD BE A MAX OF 1
+			$entries = $this->TwitterQueue->get(
+				array(
+					'job_number' => $job['job_number']
+				)
+			);
+
+			// Check the table entries
+			if( count($entries) == 0 ) {
+				// NEW ENTRY	::	TWEET
+				echo '<p><b>NEW POSITION:</b> ' . $job['job_number'] . '</p>';
+
+				// Mark the position
+				$job['twitter_code'] = TwitterEnumerations::POSTED;
+
+				// Insert the job
+				$this->TwitterQueue->insert( $job );
+
+				// Tweet the job
+				$this->sendTweet( $job );
+
+			} else if( $entries[0]->twitter_code == TwitterEnumerations::UNPOSTED ) {
+				// UNPOSTED ENTRY	::	TWEET
+				echo '<p><b>UNPOSTED POSITION:</b> ' . $job['job_number'] . '</p>';
+
+				// Localize the entry
+				$entry = $entries[0];
+
+				// Set the code to be a posted position
+				$entry->twitter_code = TwitterEnumerations::POSTED;
+
+				// Update the entry
+				$this->TwitterQueue->update( $entry );
+
+				// Tweet the job
+				$this->sendTweet( $job );
+
+			} else if( $entries[0]->twitter_code == TwitterEnumerations::PREVIOUS_POSTING ) {
+				// PREVIOUSLY POSTED 	::	NO TWEET
+				echo '<p><b>PREVIOUSLY POSTED POSITION:</b> ' . $job['job_number'] . '</p>';
+
+				// Localize the entry
+				$entry = $entries[0];
+
+				// Set the code to be a posted position
+				$entry->twitter_code = TwitterEnumerations::POSTED;
+
+				// Update the entry
+				$this->TwitterQueue->update( $entry );
+			}
+		}
+	}
+
+	private function handleUnpostedPositions()
+	{
+		// Get the unposted positions
+		$unposted = $this->TwitterQueue->get(
+			array(
+				'twitter_code' => TwitterEnumerations::PREVIOUS_POSTING
+			)
+		);
+
+		// Loop through each of the positions
+		foreach( $unposted as $unpost )
+		{
+			// Change the twitter code
+			$unpost->twitter_code = TwitterEnumerations::UNPOSTED;
+
+			// Update the entry in the table
+			$this->TwitterQueue->update( $unpost );
+
+			// Unpost the postion
+			echo '<p><b>Job number ' . $unpost->job_number . ' has been unposted</b></p>';
+		}
+	}
+
 	private function sendTweet( $job )
 	{
 		// Localize the job number
@@ -183,7 +257,7 @@ class Twitter extends CI_Controller {
 		$message = "A new $label job has become available on campus.  See job number $number for more details. $url";
 
 		// Output the status
-		echo( "TWEETING: " . $message . "<BR><BR>" );
+		echo( "<p><b>TWEETING:</b> " . $message . "</p>" );
 
 		// Create a handle for twitter
 		$twitterHandle = new TwitterHandler();
@@ -201,4 +275,9 @@ class TwitterEnumerations
 	const REMOVE = 0;
 	const ADDED = 1;
 	const EXISTING = 2;
+
+	const PREVIOUS_POSTING = 0;
+	const NEW_POSTING = 1;
+	const POSTED = 2;
+	const UNPOSTED = 3;
 }
