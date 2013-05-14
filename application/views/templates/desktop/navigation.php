@@ -14,8 +14,8 @@
 		<ul class="nav nav-list">
 			<li class="nav-header"><a href="?/students/">Students</a></li>
 			<li><a href="?/students/info">New Student Information</a></li>
-			<li><a href="?/students/oncampus">On Campus Jobs</a></li>
-			<li><a href="?/students/offcampus">Off Campus Jobs</a></li>
+			<li><a href="?/students/oncampus">On-Campus Jobs</a></li>
+			<li><a href="?/students/offcampus">Off-Campus Jobs</a></li>
 			<li><a href="?/students/resources">Student Resources</a></li>
 			<li><a href="?/students/handbook">Student Handbook</a></li>
 			<li><a href="?/students/faq">Frequently Asked Questions</a></li>
@@ -26,6 +26,7 @@
 		<ul class="nav nav-list">
 			<li class="nav-header"><a href="?/employers/">Employers</a></li>
 			<li><a href="?/employers/info">New Employer Information</a></li>
+			<li><a href="?/employers/submitJobDescription">Submit a new On-Campus Job Description</a></li>
 			<li><a href="?/employers/postOnCampus">Post an On-Campus Position</a></li>
 			<li><a href="?/employers/removeOnCampus">Remove an On-Campus Position</a></li>
 			<li><a href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li>
