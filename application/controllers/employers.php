@@ -283,16 +283,74 @@ class Employers extends SEO_Controller {
 
 	public function submitJobDescription()
 	{
+		// Set the rules for the form
+		$this->form_validation->set_rules( 'title', 'job title', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'department', 'department', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'departmentCode', 'department code', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'location', 'location', 'required|trim|xss_clean' );
+
+		$this->form_validation->set_rules( 'contactName', 'contact name', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'contactDCE', 'contact dce', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'contactPhone', 'contact phone', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'displayPhone', 'phone visibility', 'trim|xss_clean' );
+		$this->form_validation->set_rules( 'contactEmail', 'contact email', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'displayEmail', 'email visibility', 'trim|xss_clean' );
+
+		$this->form_validation->set_rules( 'summary', 'position summary', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'essentialTasks', 'essentail tasks', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'nonessentialTasks', 'nonessential tasks', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'requiredSkills', 'required skills', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'preferredSkills', 'preferred skills', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules( 'jobType', 'job type', 'trim|xss_clean' );
+		
 		// Get the departments
 		$departments = $this->DepartmentModel->get();
+		$types = $this->TypeModel->get();
 
-		// Create data for the view
-		$data = array(
-			'departments' => to_options_array( $departments, 'ID', 'name' )
-		);
+		// Run the form validation
+		if( $this->form_validation->run() == FALSE ) {
+			// Create data for the view
+			$data = array(
+				'departments' => to_options_array( $departments, 'ID', 'name' ),
+				'types' => to_options_array( $types, 'ID', 'label' )
+			);
 
-		// Load the body of the page
-		$this->data['body'] = $this->load->view( 'postings/jobdescription/form.php', $data, TRUE );
+			// Load the body of the page
+			$this->data['body'] = $this->load->view( 'postings/jobdescription/form.php', $data, TRUE );
+		} else {
+			// Set up an array to pass to the new view
+			$data = array(
+				'department' => $this->input->post( 'department', TRUE ),
+				'departments' => to_options_array( $departments, 'ID', 'name' ),
+				'departmentCode' => $this->input->post( 'departmentCode', TRUE ),
+				'location' => $this->input->post( 'location', TRUE ),
+
+				'contactName' => $this->input->post( 'contactName', TRUE ),
+				'contactDCE' => $this->input->post( 'contactDCE', TRUE ),
+				'contactPhone' => $this->input->post( 'contactPhone', TRUE ),
+				'displayPhone' => ($this->input->post( 'displayPhone', TRUE ) === "on"),
+				'contactEmail' => $this->input->post( 'contactEmail', TRUE ),
+				'displayEmail' => ($this->input->post( 'displayEmail', TRUE ) === "on"),
+
+				'title' => $this->input->post( 'title', TRUE ),
+				'summary' => $this->input->post( 'summary', TRUE ),
+				'essentialTasks' => $this->input->post( 'essentialTasks', TRUE ),
+				'nonessentialTasks' => $this->input->post( 'nonessentialTasks', TRUE ),
+				'requiredSkills' => $this->input->post( 'requiredSkills', TRUE ),
+				'preferredSkills' => $this->input->post( 'preferredSkills', TRUE ),
+				'jobType' => $this->input->post( 'jobType', TRUE ),
+				'types' => to_options_array( $types, 'ID', 'label' )
+			);
+
+			$info = array(
+				'title',
+				'dept_code',
+				'summary'
+			);
+
+			// Load a detailed view for the data that was passed in
+			$this->data['body'] = $this->load->view( 'postings/jobdescription/detail.php', $data, TRUE );
+		}
 
 		// Load the page
 		$this->load->view('template', $this->data);
