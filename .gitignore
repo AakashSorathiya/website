@@ -7,3 +7,5 @@
 jobs/*
 /assets/api/twitter.php
 /application/controllers/api.php
+
+*.DS_Store
