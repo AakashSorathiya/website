@@ -1,66 +1,62 @@
 <table class="table">
 	<tr>
-		<td>Department Id</td>
-		<td><?php echo $department; ?></td>
+		<td><b>Job Title:</b></td>
+		<td colspan="3"><?php echo $title; ?></td>
 	</tr>
+
 	<tr>
-		<td>Department Code</td>
+		<td><b>Department:</b></td>
+		<td>
+			<?php
+				$dept = $departments[$department];
+				echo $dept;
+			?>
+		</td>
+		<td><b>Department Code:</b></td>
 		<td><?php echo $departmentCode; ?></td>
 	</tr>
 	<tr>
-		<td>Location</td>
-		<td><?php echo $location; ?></td>
+		<td><b>Department Contact:</b></td>
+		<td colspan="3"><?php echo $contactName; ?></td>
 	</tr>
 	<tr>
-		<td>Contact Name</td>
-		<td><?php echo $contactName; ?></td>
-	</tr>
-	<tr>
-		<td>Contact DCE</td>
-		<td><?php echo $contactDCE; ?></td>
-	</tr>
-	<tr>
-		<td>Contact Phone</td>
+		<td><b>Contact Phone:</b></td>
 		<td><?php echo $contactPhone; ?></td>
-	</tr>
-	<tr>
-		<td>Display Phone</td>
+		<td><b>Display Phone:</b></td>
 		<td><?php echo ($displayPhone == 1 ? "Yes" : "No"); ?></td>
 	</tr>
 	<tr>
-		<td>Contact Email</td>
+		<td><b>Contact Email:</b></td>
 		<td><?php echo $contactEmail; ?></td>
-	</tr>
-	<tr>
-		<td>Display Email</td>
+		<td><b>Display Email:</b></td>
 		<td><?php echo ($displayEmail == 1 ? "Yes" : "No"); ?></td>
 	</tr>
 	<tr>
-		<td>Job Title</td>
-		<td><?php echo $title; ?></td>
+		<td><b>Location:</b></td>
+		<td colspan="3"><?php echo $location; ?></td>
 	</tr>
 	<tr>
-		<td>Position Summary</td>
-		<td><?php echo $summary; ?></td>
-	</tr>
-	<tr>
-		<td>Essential Tasks</td>
-		<td><?php echo $essentialTasks; ?></td>
-	</tr>
-	<tr>
-		<td>Non-Essential Tasks</td>
-		<td><?php echo $nonessentialTasks; ?></td>
-	</tr>
-	<tr>
-		<td>Required Skills</td>
-		<td><?php echo $requiredSkills; ?></td>
-	</tr>
-	<tr>
-		<td>Preferred Skills</td>
-		<td><?php echo $preferredSkills; ?></td>
-	</tr>
-	<tr>
-		<td>Job Type</td>
-		<td><?php echo $jobType; ?></td>
+		<td><b>Job Type:</b></td>
+		<td colspan="3">
+			<?php
+				$type = $types[$jobType];
+				echo $type;
+			?>
+		</td>
 	</tr>
 </table>
+
+<p><b>Position Summary:</b></p>
+<p><?php echo $summary; ?></p>
+
+<p><b>Essential Tasks:</b></p>
+<p><?php echo $essentialTasks; ?></p>
+
+<p><b>Non-Essential Tasks:</b></p>
+<p><?php echo $nonessentialTasks; ?></p>
+
+<p><b>Required Skills / Qualifications:</b></p>
+<p><?php echo $requiredSkills; ?></p>
+
+<p><b>Preferred Skills / Qualifications:</b></p>
+<p><?php echo $preferredSkills; ?></p>
