@@ -122,6 +122,7 @@ $autoload['language'] = array();
 
 $autoload['model'] = array(
 	'CodeModel',
+	'ContactModel',
 	'DepartmentModel',
 	'EmploymentModel',
 	'InformationModel',

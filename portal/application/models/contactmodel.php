@@ -1,21 +1,17 @@
 <?php
 /**
- * Create an Information Model
+ * Create a Department Model
  */
-class InformationModel extends SEO_Model {
+class ContactModel extends SEO_Model {
 	// Create a table reference
-	private $TABLE = 'job_information';
+	private $TABLE = 'contact';
 
 	// Localized Schema of Table
 	var $ID = NULL;
-	var $title = NULL;
-	var $dept_code = NULL;
-	var $summary = NULL;
-	var $essentialTasks = NULL;
-	var $nonessentialTasks = NULL;
-	var $requiredSkills = NULL;
-	var $preferredSkills = NULL;
-	var $type_id = NULL;
+	var $type = NULL;
+	var $user_id = NULL;
+	var $visible = NULL;
+	var $contact = NULL;
 
 	/**
 	 *	Get all instances from the table

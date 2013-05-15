@@ -11,9 +11,10 @@ class InformationModel extends SEO_Model {
 	var $title = NULL;
 	var $dept_code = NULL;
 	var $summary = NULL;
-	var $functions = NULL;
-	var $qualifications = NULL;
-	var $skills = NULL;
+	var $essentialTasks = NULL;
+	var $nonessentialTasks = NULL;
+	var $requiredSkills = NULL;
+	var $preferredSkills = NULL;
 	var $type_id = NULL;
 
 	/**

@@ -281,6 +281,9 @@ class Employers extends SEO_Controller {
 		$this->load->view('template', $this->data);
 	}
 
+	/**
+	 *	Submit a Job Description
+	 */
 	public function submitJobDescription()
 	{
 		// Set the rules for the form
@@ -318,6 +321,9 @@ class Employers extends SEO_Controller {
 			// Load the body of the page
 			$this->data['body'] = $this->load->view( 'postings/jobdescription/form.php', $data, TRUE );
 		} else {
+	///
+	///	ALL SUBMITTED DATA
+	///
 			// Set up an array to pass to the new view
 			$data = array(
 				'department' => $this->input->post( 'department', TRUE ),
@@ -342,11 +348,157 @@ class Employers extends SEO_Controller {
 				'types' => to_options_array( $types, 'ID', 'label' )
 			);
 
+	///
+	///	INFORMATION
+	///
+			// Initialize an information object
 			$info = array(
-				'title',
-				'dept_code',
-				'summary'
+				'title' => $data['title'],
+				'dept_code' => $data['departmentCode'],
+				'summary' => $data['summary'],
+				'essentialTasks' => $data['essentialTasks'],
+				'nonessentialTasks' => $data['nonessentialTasks'],
+				'requiredSkills' => $data['requiredSkills'],
+				'preferredSkills' => $data['preferredSkills'],
+				'type_id' => $data['jobType']
 			);
+
+			// Insert the information into the table
+			$info['ID'] = $this->InformationModel->insert( $info );
+
+			// Get the information
+			$info = $this->InformationModel->getOne( $info );
+	///
+	///	JOB
+	///
+			// Initialize a job object
+			$job = array(
+				'department_id' => $data['department'],
+				'information_id' => $info->ID,
+				'timestamp' => time(),
+				'number' => '',
+				'current_state' => StateEnum::PENDING
+			);
+
+			// Insert the job into the table
+			$job['ID'] = $this->JobModel->insert( $job );
+
+			// Get the job
+			$job = $this->JobModel->getOne( $job );
+
+	///
+	///	DEPARTMENT CODE
+	///
+			// Define the code
+			$code = array(
+				'code' => $data['departmentCode'],
+				'department_id' => $data['department']
+			);
+
+			// Get the relavant codes
+			$codes = $this->CodeModel->get( $code );
+
+			// Check the number of codes being returned
+			if( count($codes) == 0 )
+				// Insert the code
+				$code['ID'] = $this->CodeModel->insert( $code );
+
+			// Get the code
+			$code = $this->CodeModel->getOne( $code );
+
+	///
+	///	USER
+	///
+			// Define the user
+			$user = array(
+				'dce' => $data['contactDCE']
+			);
+
+			// Get all users in the database with the given DCE
+			//		Should only be one entry max
+			$users = $this->UserModel->get( $user );
+
+			// Check for a pre-existing user
+			if( count($users) == 0 ) {
+				// Add additional information about the user
+				$user['display_name'] = $data['contactName'];
+				$user['added'] = time();
+
+				// Store the id for the user
+				$user['ID'] = $this->UserModel->insert( $user );
+			}
+
+			// Get the user
+			$user = $this->UserModel->getOne( $user );
+
+	///
+	///	POINT OF CONTACT
+	///
+			$poc = array(
+				'job_id' => $job->ID,
+				'user_id' => $user->ID,
+				'primary' => TRUE
+			);
+
+			// Add the point of contact
+			$poc['ID'] = $this->PointOfContactModel->insert( $poc );
+
+			// Get the poc
+			$poc = $this->PointOfContactModel->getOne( $poc );
+
+	///
+	///	CONTACT (EMAIL)
+	///
+			// Define a base email type
+			$email = array(
+				'type' => 'email',
+				'user_id' => $user->ID
+			);
+
+			// Get all emails for the user
+			$emails = $this->ContactModel->get( $email );
+
+			// Check for a pre-existing email for the user
+			if( count($emails) == 0 ) {
+				// Store additional information
+				$email['visible'] = $data['displayEmail'];
+				$email['contact'] = $data['contactEmail'];
+
+				// Add the email to the table
+				$email['ID'] = $this->ContactModel->insert( $email );
+			}
+
+			// Get the email
+			$email = $this->ContactModel->getOne( $email );
+
+	///
+	///	CONTACT (PHONE)
+	///
+			// Define a base phone type
+			$phone = array(
+				'type' => 'phone',
+				'user_id' => $user->ID
+			);
+
+			// Get all phones
+			$phones = $this->ContactModel->get( $phone );
+
+			// Check for a pre-existing phone for the user
+			if( count($phones) == 0 ) {
+				// Store additional information
+				$phone['visible'] = $data['displayPhone'];
+				$phone['contact'] = $data['contactEmail'];
+
+				// Add the phone to the table
+				$phone['ID'] = $this->ContactModel->insert( $phone );
+			}
+
+			// Get the phone
+			$phone = $this->ContactModel->getOne( $phone );
+
+			///
+			///	CLEAN UP AND FINISH
+			///
 
 			// Load a detailed view for the data that was passed in
 			$this->data['body'] = $this->load->view( 'postings/jobdescription/detail.php', $data, TRUE );
