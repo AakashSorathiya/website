@@ -1,7 +1,7 @@
 <h1>On-Campus Employment Handbook</h1>
 <p>The Rochester Institute of Technology's Student Employment Office (SEO) has prepared this booklet to provide you with a general overview of the student employment process for the employer's point of view. The information should be helpful to employers looking for their first student employee as well as to the employers who have hired hundreds of student employees.</p>
 
-<ol class="indent">
+<ol>
 	<li><p><a href="#1">Introduction</a></p></li>
 	<li><p><a href="#2">Contacting the SEO</a></p></li>
 	<li><p><a href="#3">Contacting the RIT Payroll Office</a></p></li>

@@ -5,6 +5,7 @@
 */cache/!index.html
 
 jobs/*
+
 /assets/api/twitter.php
 /application/controllers/api.php
 
