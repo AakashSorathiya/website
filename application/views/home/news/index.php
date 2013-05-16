@@ -1,7 +1,24 @@
 <h1><b>Announcements</b></h1>
+<hr>
 
 <div class="section">
-	<h2>ORACLE STUDENT SELF-SERVICE FOR RIT STUDENT WORKERS</h2>
+	<h2>New I-9 Verification Process Effective Immediately!</h2>
+
+	<p>The I-9 verification process has gone electronic!  New student employees are now able to complete Section 1 of the government mandated I-9 form from any computer.  If you are a new student worker, please following the process as outlined below:</p>
+	<ol>
+		<li>You must first receive an offer of employment from an RIT employer.</li>
+		<li>Log-on to <a href="http://www.i9express.com/">I-9 Express</a> by going to <a href="http://www.i9express.com/">http://www.i9express.com/</a>.</li>
+		<li>Use Employer Code <b>15083</b>.</li>
+		<li>Review your information for errors and then check the box for your electronic signature.</li>
+		<li>Save the information and take your original required documents <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">I-9 documents</a> to the Student Employment Office to complete Section 2 of the I-9 verification process.</li>
+		<li>SEO will verify your identity and eligibility to work using the original documents that you bring with you.</li>
+		<li>Once SEO has completed Section 2, the I-9 process will be complete!</li>
+	</ol>
+</div>
+<hr>
+
+<div class="section">
+	<h2>Oracle Student Self-Service for RIT Student Workers</h2>
 
 	<p>Did you know that you can access your pay stub and other valuable payroll information on-line via the Oracle Student Self-Service application? Registration is easy. Just follow the step-by-step directions at</p>
 	
@@ -10,10 +27,11 @@
 	<p>Be sure to sure to use your RIT DCE username. Your employee number will be the first five digits of your Kronos badge number.</p>
 
 	<p>Need help? Contact the ITS HelpDesk at 475-4357 for assistance.</p>
-</div><br>
+</div>
+<hr>
 
 <div class="section">
-	<h2>FRAUDULENT EMPLOYER</h2>
+	<h2>Fraudulent Employer</h2>
 	<p>Attention All Students:</p>
 	<p>
 		A few months back, a company by the name of Acuity Brands posted a job through the Student Employment Office website.
@@ -24,7 +42,7 @@
 		  We apologize for any inconvenience this may have caused students and encourage you to be diligent in the future.
 	</p>
 </div>
-<br>
+<hr>
 
 <div class="section">
 	<h2>Wage Theft Prevention Act</h2>
@@ -43,7 +61,7 @@
 	<p>This form will be used for Graduate Teaching Assistants (GTA's) only. Employers may disregard items '4 - Allowances Taken' and '7 - Overtime Pay Rate'. You may leave these two items blank. Once the appropriate form is completed and signed, a copy must be given to the student and the original must be attached to the SEO Hire Form and sent to Student Employment where the forms will be kept for six years. There will be changes to this process as New York State makes more information available. In the meanwhile, your cooperation with the process outlined above will be greatly appreciated.</p>
 	<p>This notice must be given to employees on an official form from the New York State Department of Labor at the time of hiring, before they do any work.  The employer must complete the form and have the employee sign a statement of acknowledgement of the written notice and keep the signed statement for 6 years.</p>
 </div>
-<br>
+<hr>
 
 <div class="section">
 	<h2>Student Employment Procedure Change</h2>

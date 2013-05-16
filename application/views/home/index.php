@@ -1,12 +1,18 @@
 <h1><b>Student Employment Office</b></h1>
 
-<div class="alert alert-success">
-	<p>Welcome to the new Student Employment Website!  To get started, please check out all of the resources offered to you as a student or employer.  Thank you and we appreciate your <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHVlT1gzdzlWZXV3bGFDQ21ScWdTQ2c6MQ#gid=0">feedback</a>.</p>
-</div>
+<div class="section alert alert-info">
+	<h2>New I-9 Verification Process Effective Immediately!</h2>
 
-<div class="alert alert-info">
-	<h2>Attention Job Seekers!</h2>
-	<p>Are you looking for an On Campus job?  Follow us on <a href="https://twitter.com/RITSEO"><u>Twitter</u></a> and <a href="https://www.facebook.com/RITSEO"><u>Facebook</u></a> to get the most up-to-date news now!</p>
+	<p>The I-9 verification process has gone electronic!  New student employees are now able to complete Section 1 of the government mandated I-9 form from any computer.  If you are a new student worker, please following the process as outlined below:</p>
+	<ol>
+		<li>You must first receive an offer of employment from an RIT employer.</li>
+		<li>Log-on to <a href="http://www.i9express.com/">I-9 Express</a> by going to <a href="http://www.i9express.com/">http://www.i9express.com/</a>.</li>
+		<li>Use Employer Code <b>15083</b>.</li>
+		<li>Review your information for errors and then check the box for your electronic signature.</li>
+		<li>Save the information and take your original required documents <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">I-9 documents</a> to the Student Employment Office to complete Section 2 of the I-9 verification process.</li>
+		<li>SEO will verify your identity and eligibility to work using the original documents that you bring with you.</li>
+		<li>Once SEO has completed Section 2, the I-9 process will be complete!</li>
+	</ol>
 </div>
 
 <p>
