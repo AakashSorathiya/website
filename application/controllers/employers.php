@@ -496,9 +496,9 @@ class Employers extends SEO_Controller {
 			// Get the phone
 			$phone = $this->ContactModel->getOne( $phone );
 
-			///
-			///	CLEAN UP AND FINISH
-			///
+	///
+	///	CLEAN UP AND FINISH
+	///
 
 			// Load a detailed view for the data that was passed in
 			$this->data['body'] = $this->load->view( 'postings/jobdescription/detail.php', $data, TRUE );

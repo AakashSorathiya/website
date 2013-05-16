@@ -1,3 +1,7 @@
+<h2>Student Employment Office Job Description</h2>
+<p>Your job description form has been submitted successfully.  A copy of this form has been sent to the email that you have provided below.  Please check and verify that you have received a copy of this form before closing the window.  You should keep a copy of this form for your records.</p>
+<br>
+
 <table class="table">
 	<tr>
 		<td><b>Job Title:</b></td>
