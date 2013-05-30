@@ -14,7 +14,7 @@ class Employers extends SEO_Controller {
 	/**
 	 *	Employer Information Page
 	 */
-	public function info()500000
+	public function info()
 	{
 		$this->data['body'] = $this->load->view('employers/new/index', '', TRUE );
 
