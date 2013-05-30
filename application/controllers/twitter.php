@@ -272,10 +272,12 @@ class Twitter extends CI_Controller {
  */
 class TwitterEnumerations
 {
+	// OLD ENUMERATORS
 	const REMOVE = 0;
 	const ADDED = 1;
 	const EXISTING = 2;
 
+	// NEW ENUMERATORS
 	const PREVIOUS_POSTING = 0;
 	const NEW_POSTING = 1;
 	const POSTED = 2;

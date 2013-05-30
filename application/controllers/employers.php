@@ -14,7 +14,7 @@ class Employers extends SEO_Controller {
 	/**
 	 *	Employer Information Page
 	 */
-	public function info()
+	public function info()500000
 	{
 		$this->data['body'] = $this->load->view('employers/new/index', '', TRUE );
 
@@ -45,7 +45,7 @@ class Employers extends SEO_Controller {
 	 */
 	public function postOnCampus()
 	{
-		// Set up sime basic information
+		// Set up sime basic infor  mation
 		$this->email->to('967dept@rit.edu');
 		$this->email->from('967dept@rit.edu', 'Website: Post On Campus');
 		$this->email->subject( 'Post On Campus Position' );

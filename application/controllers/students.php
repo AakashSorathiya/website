@@ -53,7 +53,7 @@ class Students extends SEO_Controller {
 	public function offcampus( $category = NULL, $job_number = NULL )
 	{
 		// Load the index page by default
-		$this->data['body'] = $this->load->view('students/offcampus/index', '', TRUE );
+		$this->data['body'] = $this->load->view('students/offcampus/index', '',  TRUE );
 
 		// Check for the category
 		if( $category != NULL ) {

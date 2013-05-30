@@ -69,7 +69,7 @@
 			<td>Senior Associate Director</td>
 		</tr>
 		<tr>
-			<td>Amanda Feeney</td>
+			<td>Amanda Henry</td>
 			<td>Assistant Director</td>
 		</tr>
 		<tr>
