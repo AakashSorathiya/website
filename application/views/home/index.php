@@ -3,7 +3,7 @@
 <div class="section alert alert-info">
 	<h2>New I-9 Verification Process Effective Immediately!</h2>
 
-	<p>The I-9 verification process has gone electronic!  New student employees are now able to complete Section 1 of the government mandated I-9 form from any computer.  If you are a new student worker, please following the process as outlined below:</p>
+	<p>The I-9 verification process has gone electronic!  New student employees are now able to complete Section 1 of the government mandated I-9 form from any computer.  If you are a new student worker, please follow the process as outlined below:</p>
 	<ol>
 		<li>You must first receive an offer of employment from an RIT employer.</li>
 		<li>Log-on to <a href="http://www.i9express.com/">I-9 Express</a> by going to <a href="http://www.i9express.com/">http://www.i9express.com/</a>.</li>
