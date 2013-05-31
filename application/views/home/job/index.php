@@ -51,12 +51,18 @@
 <!-- ELIGIBILITY -->
 <div class="section">
 	<h2 id="requirements"><b>SEO Employment Eligibility Card Requirements</b></h2>
-	<p>Students who receive a job offer must complete the employment verification process, in person, at the Student Employment Office.</p>
+	<p>If you are a new student worker, please follow the steps as outlined below to complete the new electronic verification process.</p>
 	<p>To get your SEO Employment Eligibility Card you need to:</p>
 	<ul>
-		<li><p>Bring a filled out <a target="_blank" href="/seo/assets/docs/employment-verification.pdf">Employment Verification Form</a> to our office in the University Services Center.</p></li>
-		<li><p>Fill out an I-9 form - US federal form for employment eligibility verification.</p></li>
-		<li><p>Needed for the I-9 form is original documentation to prove who you are and that you can work in the United States - a list of acceptable documents can be found <a target="_blank" href="/seo/assets/docs/i-9-acceptable-documents.pdf">here</a>. You must bring one document from <i>List A</i> <b><u>or</u></b> one document from <i>List B</i> <b><u>and</u></b> <i>List C</i>. All documents must be original. Copies, faxes, or scanned documents cannot be accepted.</p></li>
-		<li><p><b>NOTE:</b> International students will be required to submit a valid F1 or J1 Visa.</p></li>
+		<li><p>You must first receive an offer of employment from an RIT employer.</p></li>
+		<li><p>Before, or on your first day of employment, you must log-on to I-9 Express <a target="_blank" href="http://www.i9express.com/">here</a>.</p></li>
+		<li><p>Use Employer Code <strong>15083</strong>.</p></li>
+		<li><p>Review your information for errors and then check the box for your electronic signature.</p></li>
+		<li><p>Save the information and take your original <a target="_blank" href="http://www.rit.edu/emcs/seo/assets/docs/i-9-acceptable-documents.pdf">required documents</a>
+			to the Student Employment Offic to complete Section 2 of the I-9 verification process.  This step must be completed immediately after completing Section 1 of the
+			I-9 form, <em>but no later than your third day of employment</em>.
+		</p></li>
+		<li><p>SEO will verify your identity and eligibility to work using the original documents that you bring with you.</p></li>
+		<li><p>Once SEO has completed Section 2, the I-9 process will be complete!</p></li>
 	</ul>
 </div>

@@ -9,9 +9,8 @@
 	<ol>
 		<li><p>Be registered with full-time status (minimum of 12 credit hours).</p></li>
 		<li><p>Provide proof of on-campus employment, supplied by your employer.  If you need to find a job on campus, check out our <a href="?/home/job/">Getting a Job</a> page for more information about how to find a job on-campus.</p></li>
-		<li><p>Follow these <a target="_blank" href="http://www.rit.edu/emcs/seo/assets/docs/i-9-acceptable-documents.pdf">instructions</a> to complete the government mandated I-9 Form.
-				You will be required to show original documentation to verify your identity and eligibility to work.</p>
-			<p><b>Note:</b> The I-9 process has gone electronic.  Please see the <a href="?/home/news">Announcements</a> page for additional information regarding the new electronic I-9.</p>
+		<li><p>Complete the electronic I-9 process as mandated by the federal government.</p></li>
+			<p><b>Note:  </b>Please see the following link for the <a href="/seo/assets/docs/2013-electronic-i9process.pdf">new electronic process</a>.</p>
 			<p>
 				<b>ALL DOCUMENTS MUST BE ORIGINAL COPIES.</b><br>
 				<b>PHOTOCOPIES WILL NOT BE ACCEPTED.</b>

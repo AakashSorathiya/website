@@ -8,11 +8,13 @@
 	<h1>New Hires</h1>
 	<p>These are students that have never held a position on campus before and are new to working on campus at RIT.</p>
 	<ul>
-		<li><p>After an offer of employment has been made to a student who has never worked on-campus, complete the employment Verifcation Form for the student to bring to the Student Employment Office. The student will be required to complete the government mandated I-9 Form andprove eligibility to work.</p></li>
-		<li><p>Students will also be required to be registered with full-time status for the quarter(s) they are to work or provide proff of full-time registration status (i.e. Full-Time Equivalency Form).</p></li>
+		<li><p>After an offer of employment has been made to a student who has never worked on-campus, complete the employment Verifcation Form for the student to bring to the Student Employment Office.
+			The student will also be required to complete the online I-9 Verification process.  See the following <a href="/seo/assets/docs/2013-electronic-i9process.pdf">link</a> to complete the online verification process.
+		</p></li>
+		<li><p>Students will also be required to be registered with full-time status for the semester they are to work or provide proff of full-time registration status (i.e. Full-Time Equivalency Form).</p></li>
 		<li><p>Do not forget the Wage Theft Prevention Act form which has to be completed by the supervisor for <b><u>all student workers who have never previously worked at RIT</u></b>.</p>
 			<ul>
-				<li><p>Refer to News &amp; Announcements for more information. The form is available at the <a href="?/employers/resources/">Employer Resources</a>.</p></li>
+				<li><p>Refer to News &amp; Announcements for more information. The NYS Form is available at the <a href="?/employers/resources/">Employer Resources</a>.</p></li>
 				<li><p>Hire paperwork for new hires sent without the Wage Theft Prevention Act Forms will be returned.</p></li>
 			</ul>
 		</li>
@@ -24,7 +26,7 @@
 	<ul>
 		<li><p>SEO does not have access to Kronos and can only verify if the SEO hire paperwork has been processed for Oracle only.</p></li>
 		<li><p>All questions for Kronos should be directed to Sean Cartwright, ext. 2819 or Kitty Stappenbeck, ext. 5580.</p></li>
-		<li><p>Fall quarter is the busiest time of the year for us and our primary objective is to process all the paperwork in a timely fashion before the Payroll Pay Period End Dates.</p></li>
+		<li><p>Fall semester is the busiest time of the year for us and our primary objective is to process all the paperwork in a timely fashion before the Payroll Pay Period End Dates.</p></li>
 		<li><p>Please be patient with us if you cannot see your student(s) in Kronos immediately - we will process correct hire/rehire paperwork as fast as we can! Only contact us if you believe the paperwork was filled out incorrectly with wrong start dates, etc.</p></li>
 	</ul>
 </div>
