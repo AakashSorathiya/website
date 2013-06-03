@@ -18,7 +18,7 @@ class Employers extends SEO_Controller {
 	{
 		$this->data['body'] = $this->load->view('employers/new/index', '', TRUE );
 
-		$this->load->view('template', $this->data);
+		$this->load->view('template', $this->data)  ;
 	}
 
 	/**

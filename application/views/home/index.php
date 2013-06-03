@@ -9,7 +9,7 @@
 		<li>Log-on to <a href="http://www.i9express.com/">I-9 Express</a> by going to <a href="http://www.i9express.com/">http://www.i9express.com/</a>.</li>
 		<li>Use Employer Code <b>15083</b>.</li>
 		<li>Review your information for errors and then check the box for your electronic signature.</li>
-		<li>Save the information and take your original required documents <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">I-9 documents</a> to the Student Employment Office to complete Section 2 of the I-9 verification process.</li>
+		<li>Save the information and take your original required <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">I-9 documents</a> to the Student Employment Office to complete Section 2 of the I-9 verification process.</li>
 		<li>SEO will verify your identity and eligibility to work using the original documents that you bring with you.</li>
 		<li>Once SEO has completed Section 2, the I-9 process will be complete!</li>
 	</ol>
