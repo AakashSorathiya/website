@@ -13,15 +13,15 @@ class Page extends SEO_Controller {
 		$root = getcwd();
 
 		// Require the twitter script
-		require_once( "$root/assets/api/twitter.php" );
+		//require_once( "$root/assets/api/twitter.php" );
 
 		// Initialize a Twitter Object
-		$twitter = new Twitter();
+		//$twitter = new Twitter();
 
 		// Local data for this page
 		$data = array(
-			'user' => $this->data['user'],
-			'tweets' => $twitter->get_tweets()
+			'user' => $this->data['user']
+			//'tweets' => $twitter->get_tweets()
 		);
 
 		// Load the body of the page

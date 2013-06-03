@@ -6,7 +6,7 @@
 	<p>The I-9 verification process has gone electronic!  New student employees are now able to complete Section 1 of the government mandated I-9 form from any computer.  If you are a new student worker, please follow the process as outlined below:</p>
 	<ol>
 		<li>You must first receive an offer of employment from an RIT employer.</li>
-		<li>Log-on to <a href="http://www.i9express.com/">I-9 Express</a> by going to <a href="http://www.i9express.com/">http://www.i9express.com/</a>.</li>
+		<li>Log-on to I-9 Express by going to <a href="http://www.newi9.com/">http://www.newi9.com</a>.</li>
 		<li>Use Employer Code <b>15083</b>.</li>
 		<li>Review your information for errors and then check the box for your electronic signature.</li>
 		<li>Save the information and take your original required <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">I-9 documents</a> to the Student Employment Office to complete Section 2 of the I-9 verification process.</li>

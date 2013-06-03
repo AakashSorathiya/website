@@ -55,7 +55,7 @@
 	<p>To get your SEO Employment Eligibility Card you need to:</p>
 	<ul>
 		<li><p>You must first receive an offer of employment from an RIT employer.</p></li>
-		<li><p>Before, or on your first day of employment, you must log-on to I-9 Express <a target="_blank" href="http://www.i9express.com/">here</a>.</p></li>
+		<li><p>Before, or on your first day of employment, you must log-on to I-9 Express <a target="_blank" href="http://www.newi9.com/">here</a>.</p></li>
 		<li><p>Use Employer Code <strong>15083</strong>.</p></li>
 		<li><p>Review your information for errors and then check the box for your electronic signature.</p></li>
 		<li><p>Save the information and take your original <a target="_blank" href="http://www.rit.edu/emcs/seo/assets/docs/i-9-acceptable-documents.pdf">required documents</a>
