@@ -38,6 +38,6 @@
 	<li><p><a href="/seo/assets/docs/confidentiality-agreement.pdf" target="_blank">Confidentiality Agreement</a></p></li>
 	<li><p><a href="/seo/assets/docs/timekeeping.pdf" target="_blank">Time Keeping Compliance FAQ</a></p></li>
 	<li><p><a href="/seo/assets/docs/2013-pay-schedule.pdf" target="_blank">2013 Bi-Weekly Pay Schedule</a></p></li>
-	<li><p><a href="/seo/assets/docs/2014-pay-schedule.pdf" target="_blank">2014 Bi-Weekly Pay Schedule</a></p></li>
+	<li><p><a href="/seo/assets/docs/pay-schedule.pdf" target="_blank">2014 Bi-Weekly Pay Schedule</a></p></li>
 	<li><p><a href="http://finweb.rit.edu/humanresources/policies/unethicalconduct.html" target="_blank">Concerns about Unethical Conduct, Harassment, or Descrimination</a></p></li>
 </ul>
