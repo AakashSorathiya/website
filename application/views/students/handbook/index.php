@@ -199,7 +199,7 @@
 	<p>Direct deposit of wages is highly recommended for student workers. Forms can be obtained from the SEO or Payroll websites or by stopping by the Payroll or Student Employment Offices. Students taking advantage of the direct deposit option can view their paystubs online. For access, students must logon to <a href="http://finweb.rit.edu/controller/payroll/">http://finweb.rit.edu/controller/payroll/</a>, and follow the directions provided.</p>
 
 	<p><a href="/seo/assets/docs/student-wage-schedule.pdf">View the Wage Schedule</a></p>
-	<p><a href="/seo/assets/docs/2014_pay_schedule.pdf" target="_blank">View the RIT Bi-Weekly Pay Schedule</a></p>
+	<p><a href="/seo/assets/docs/2014-pay-schedule.pdf" target="_blank">View the RIT Bi-Weekly Pay Schedule</a></p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>

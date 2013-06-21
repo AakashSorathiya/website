@@ -6,7 +6,7 @@
 	<li><p><a href="http://www.rit.edu/emcs/seo/assets/docs/i-9-acceptable-documents.pdf" target="_blank">Acceptable Identification Documents</a></p></li>
 	<li><p><a href="/seo/assets/docs/timekeeping.pdf" target="_blank">Time Keeping Compliance FAQ</a></p></li>
 	<li><p><a href="/seo/assets/docs/2013-pay-schedule.pdf" target="_blank">2013 Bi-Weekly Pay Schedule</a></p></li>
-	<li><p><a href="/seo/assets/docs/2014_pay_schedule.pdf" target="_blank">2014 Bi-Weekly Pay Schedule</a></p></li>
+	<li><p><a href="/seo/assets/docs/2014-pay-schedule.pdf" target="_blank">2014 Bi-Weekly Pay Schedule</a></p></li>
 	<li><p><a href="http://finweb.rit.edu/humanresources/policies/unethicalconduct.html" target="_blank">Concerns about Unethical Conduct, Harassment, or Descrimination</a></p></li>
 	<li><p><a href="https://finweb.rit.edu/kronos/apps/timecardreview/" target="_blank">Check your Work Hours</a></p></li>
 </ul>
