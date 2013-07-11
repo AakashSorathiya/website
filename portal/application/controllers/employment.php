@@ -45,11 +45,11 @@ class Employment extends SEO_Controller {
 
 				// Set the title
 				$data['title'] = "Employer Employment List";
-
+				
 				break;
 
 			case "DEPARTMENT":
-				// Set the role id to the employer
+				// Set the role id to the department
 				$emp['role_id'] = RoleEnum::DEPARTMENT;
 
 				// Set the title
@@ -58,7 +58,7 @@ class Employment extends SEO_Controller {
 				break;
 
 			case "ADMINISTRATOR":
-				// Set the role id to the employer
+				// Set the role id to the admin
 				$emp['role_id'] = RoleEnum::ADMINISTRATOR;
 
 				// Set the title
@@ -67,7 +67,7 @@ class Employment extends SEO_Controller {
 				break;
 
 			default:
-				// Set the role id to the employer
+				// Set the role id to the student
 				$emp['role_id'] = RoleEnum::STUDENT;
 
 				// Set the title

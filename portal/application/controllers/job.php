@@ -8,7 +8,7 @@ class Job extends SEO_Controller {
 	{
 		// Call the parent constructor
 		parent::__construct();
-
+ 
 		//
 		//	DEFINE FORM VALIDATION RULES
 		//
