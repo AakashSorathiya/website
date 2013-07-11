@@ -9,7 +9,7 @@
 	<p>These are students that have never held a position on campus before and are new to working on campus at RIT.</p>
 	<ul>
 		<li><p>After an offer of employment has been made to a student who has never worked on-campus, complete the employment Verifcation Form for the student to bring to the Student Employment Office.
-			The student will also be required to complete the online I-9 Verification process.  See the following <a href="/seo/assets/docs/2013-electronic-i9process.pdf">link</a> to complete the online verification process.
+			The student will also be required to complete the online I-9 Verification process.  See the following <a href="/seo/assets/docs/2013-online-i9-process.pdf">link</a> to complete the online verification process.
 		</p></li>
 		<li><p>Students will also be required to be registered with full-time status for the semester they are to work or provide proff of full-time registration status (i.e. Full-Time Equivalency Form).</p></li>
 		<li><p>Do not forget the Wage Theft Prevention Act form which has to be completed by the supervisor for <b><u>all student workers who have never previously worked at RIT</u></b>.</p>

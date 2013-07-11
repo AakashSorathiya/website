@@ -10,7 +10,7 @@
 		<li><p>Be registered with full-time status (minimum of 12 credit hours).</p></li>
 		<li><p>Provide proof of on-campus employment, supplied by your employer.  If you need to find a job on campus, check out our <a href="?/home/job/">Getting a Job</a> page for more information about how to find a job on-campus.</p></li>
 		<li><p>Complete the electronic I-9 process as mandated by the federal government.</p></li>
-			<p><b>Note:  </b>Please see the following link for the <a href="/seo/assets/docs/2013-electronic-i9process.pdf">new electronic process</a>.</p>
+			<p><b>Note:  </b>Please see the following link for the <a href="/seo/assets/docs/2013-online-i9-process.pdf">new electronic process</a>.</p>
 			<p>
 				<b>ALL DOCUMENTS MUST BE ORIGINAL COPIES.</b><br>
 				<b>PHOTOCOPIES WILL NOT BE ACCEPTED.</b>
