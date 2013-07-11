@@ -14,7 +14,6 @@
 			<p>
 				<b>ALL DOCUMENTS MUST BE ORIGINAL COPIES.</b><br>
 				<b>PHOTOCOPIES WILL NOT BE ACCEPTED.</b>
-				<b>THIS IS A TEST</b>
 			</p>
 		</li>
 		<li><p>Pick up a Student Employment Office Eligibility Card from the office located at the University Services Center in room 1350.</p></li>
