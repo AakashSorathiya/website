@@ -20,6 +20,8 @@
 	<li><p><a href="#16">Job Benefits</a></p></li>
 	<li><p><a href="#17">Standards of Employment and Student Conduct</a></p></li>
 	<li><p><a href="#18">Job Related Problems</a></p></li>
+	<li><p><a href="#19">Summer Employment</a></p></li>
+	<li><p><a href="#20">Intersession</a></p></li>
 </ol>
 <hr>
 
@@ -27,7 +29,7 @@
 	<h2 id="1">1. Introduction</h2>
 
 	<p>Students work for a variety of reasons. Some need their earnings to meet the basic costs of an RIT education, while others want their earnings for social activities. Still others recognize that skills and work habits gained on the job will benefit them when they seek full-time employment, and simply enjoy the camaraderie of work groups.</p>
-	<p>Each year, more than 8,000 RIT students are employed through the SEO, a division of the Institute's Cooperative Education and Career Services Department. The SEO is responsible for administrating all aspects of student part-time and summer employment, including the Federal Work-Study Program (FWS), and for developing, implementing, and monitoring the Institute's policies and procedures for student employment.</p>
+	<p>Each year, more than 6,000 RIT students are employed through the SEO, a division of the Institute's Cooperative Education and Career Services Department. The SEO is responsible for administrating all aspects of student part-time and summer employment, including the Federal Work-Study Program (FWS), and for developing, implementing, and monitoring the Institute's policies and procedures for student employment.</p>
 	<p>The SEO is here to aid you in your job search, to ensure that you are properly compensated for your work, and to mediate any problems or concerns arising from your employment.</p>
 	<p>If you are looking for a part-time job to help pay for your expenses while at RIT, or if you want to gain valuable work experience while attending classes, this guide will tell you what you need to know about getting a job on or off the RIT campus.</p>
 
@@ -53,22 +55,18 @@
 		<p>
 			<u><b>Joanne Stuewe</b></u><br>
 			Senior Associate Director<br>
-			<a href="mailto:jmsseo@rit.edu">jmsseo@rit.edu</a>
 		</p>
 		<p>
-			<u><b>Amanda Feeney</b></u><br>
+			<u><b>Amanda Henry</b></u><br>
 			Assistant Director<br>
-			<a href="mailto:ajfseo@rit.edu">ajfseo@rit.edu</a>
 		</p>
 		<p>
 			<u><b>Lillieth Christopher</b></u><br>
-			Student Employment Assistant<br>
-			<a href="mailto:lpcseo@rit.edu">lpcseo@rit.edu</a>			
+			Student Employment Assistant<br>		
 		</p>
 		<p>
 			<u><b>Lizabeth Dailey</b></u><br>
 			Student Employment Assistant<br>
-			<a href="mailto:lrdseo@rit.edu">lrdseo@rit.edu</a>
 		</p>
 	</address>
 
@@ -110,6 +108,13 @@
 	<h2 id="5">5. Qualifying for On-Campus Employment</h2>
 
 	<p>For on-campus student employment, you are required to obtain a Student Employment Eligibility Card from the Student Employment Office. To do so, you must first have an offer of employment and bring the Student Employment Verification Form to the Student Employment Office which your supervisor has completed for you. You’re employer will also provide you with the website and employer code so that you can complete Section I of the government mandated I-9 form on-line, prior to going to the Student Employment Office.  You must also be a full-time matriculated RIT student, AND be registered for a minimum of 12 credit hours for the semesters(s) you wish to work. You will be also be required to submit original documentation to Student Employment to complete the I-9 process to prove your employment identity and eligibility to work. <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">Required I-9 Form documentation</a>.</p>
+	<ul>
+		<li><p>Be registered for full-time status (12 credit hours for undergraduate students and 9 credit hours for graduate students).</p></li>
+		<li><p>Receive an offer of employment from an RIT employer</p></li>
+		<li><p>Receive a Student Employment Job Verification Form from your employer</p></li>
+		<li><p>Complete Section 1 of the government mandated I-9 form on-line at <a href="http://newi9.com">http://newi9.com</a>. The Employer number is 15083.  Section 1 of the I-9 Form must be completed prior to or no later than your first day of employment and prior to going to the Student Employment Office to complete Section 2 of the I-9.</p></li>
+		<li><p>Go to the Student Employment Office with your Verification Slip and required documents to complete Section 2 of the I-9 Form within three days of your job start date.  <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">Required I-9 Form documentation</a></p></li>
+	</ul>
 	<p>The SEO also functions as a brokerage service for RIT students seeking off-campus employment. To apply for off-campus jobs you must first check the <a href="?/students/offcampus">Off-Campus Job Postings</a> located on the SEO website. Directions for application are found on each job listing. It is the student's responsibility to contact the employer to schedule an interview. The employer will make the hiring decision. If at any time you encounter problems with an off-campus employer, you are advised to contact the SEO immediately at 585-475-2631.</p>
 	<p>If you are an International student, please refer to the section on Employment Eligibility for International Students.</p>
 
@@ -123,10 +128,10 @@
 	<p>To be eligible for on-campus employment and before a Student Employment Eligibility Card can be obtained, international students must first:</p>
 	<ul>
 		<li><p>Have an offer of employment from an RIT Employer.</p></li>
-		<li><p>Be enrolled with a minimum of 12 credit hours, or have a full-time equivalency for the quarter(s) of employment.</p></li>
-		<li><p>Have a valid F1 or J1 Visa.</p></li>
+		<li><p>Be enrolled with a minimum of 12 credit hours as an undergraduate student or 9 credit hours as a graduate student, or have a full-time equivalency for all semesters of employment.</p></li>
+		<li><p>Have a valid F1 or J1 Visa and/or I-94.</p></li>
 	</ul>
-	<p>International students are allowed to work up to 20 hours per week during academic periods, and up to 40 hours per week during breaks and summer.</p>
+	<p>International students are allowed to work up to 20 hours per week during academic periods, and up to 40 hours per week during breaks, summer and intersession.</p>
 	<br>
 
 	<p>International students seeking employment who <u>DO NOT</u> already have a Social Security Card must have a job or job offer BEFORE he or she can apply for a Social Security number. International students must follow the procedures listed below:</p>
@@ -169,7 +174,6 @@
 
 	<p>Once you are registered full-time status for the quarter you wish to begin to work, you may start your job search. Job listings are posted on the SEO website. All information on how to apply can be found on each listing. Students are also encouraged to go directly to employing departments, such as any Dining Services venue or Note Taking Office, to inquire about job availability. Some employers may set-up a specific time for students to come to their department to apply for employment. Keep checking the SEO website for any notices of these events.</p>
 	<p>If at any time you encounter problems finding on-campus employment, please feel free to <a href="?/home/contact">contact the SEO</a>.</p>
-	<p><a href="?/students/oncampus">View the Current Job Postings</a></p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -199,7 +203,7 @@
 	<p>Direct deposit of wages is highly recommended for student workers. Forms can be obtained from the SEO or Payroll websites or by stopping by the Payroll or Student Employment Offices. Students taking advantage of the direct deposit option can view their paystubs online. For access, students must logon to <a href="http://finweb.rit.edu/controller/payroll/">http://finweb.rit.edu/controller/payroll/</a>, and follow the directions provided.</p>
 
 	<p><a href="/seo/assets/docs/student-wage-schedule.pdf">View the Wage Schedule</a></p>
-	<p><a href="/seo/assets/docs/pay-schedule.pdf" target="_blank">View the RIT Bi-Weekly Pay Schedule</a></p>
+	<p><a href="/seo/assets/docs/2014-bi-weekly-pay-schedule.pdf" target="_blank">View the RIT Bi-Weekly Pay Schedule</a></p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -215,7 +219,7 @@
 	<p>Students are not eligible to claim "exempt" on the Form W-4 unless all of the following apply:</p>
 	<ul>
 		<li>
-			<p>The student's income exceeds $950 and his income includes more than $300 of unearned income (for example, interest and dividends)</p>
+			<p>The student's income exceeds $1000 and his income includes more than $350 of unearned income (for example, interest and dividends)</p>
 			<p><b>AND</b></p>
 		</li>
 		<li>
@@ -237,11 +241,11 @@
 			<p><b>AND</b></p>
 		</li>
 		<li>
-			<p>Student did not have a New York income tax liability for 2010</p>
+			<p>Student did not have a New York income tax liability for the previous year.</p>
 			<p><b>AND</b></p>
 		</li>
 		<li>
-			<p>Student does not expect to have a New York income tax liability for 2011.</p>
+			<p>Student does not expect to have a New York income tax liability for the current year.</p>
 			<p><b>OR</b></p>
 		</li>
 		<li><p>Student meets the conditions set forth under the Service Members Civil Relief Act, as amended by the Military Spouses Residency Relief Act.</p></li>
@@ -252,12 +256,12 @@
 <hr>
 
 <div class="section">
-	<h2 id="13">13. Social Security Taxes (FICA)</h2>
+	<h2 id="13">13. Social Security and Medicare Taxes (FICA)</h2>
 
 	<p>Full-time, matriculated students are exempt from paying Social Security Tax (FICA) if they meet the following criteria:</p>
 
 	<ul>
-		<li><p>Student is registered for a minimum of six credit hours per quarter.</p></li>
+		<li><p>Student is registered for a minimum of six credit hours per semester.</p></li>
 		<li><p>Student is physically working on the RIT campus.</p></li>
 	</ul>
 
@@ -277,12 +281,13 @@
 	<ul>
 		<li><p>On-campus co-op positions are listed with the Center for Cooperative Education and Career Services.</p></li>
 		<li><p>Students seeking on-campus co-op respond directly to the departments listing the positions.</p></li>
-		<li><p>RIT Student Hire Forms are to be completed and returned to the SEO for processing.</p></li>
-		<li><p>The student must have a completed I-9 Form process with SEO to be eligible for work, and must also be registered for co-op through SIS.</p></li>
+		<li><p>Students must be registered for Co-op in SIS for all semesters they wish to work.</p></li>
+		<li><p>Co-op students must follow all employment guidelines as outlined in Section 5, “Qualifying for On-Campus Employment” including the on-line I-9 process.  Section 1 should be completed prior to or no later than the job start date at <a href="http://www.newi9.com">http://www.newi9.com</a>.  The Employer Number is 15083.  Section 2 must be completed in the Student Employment Office within three days of the job start date.  Be sure to bring required documentation as found at Required I-9 Form Documentation on the SEO website.</p></li>
+		<li><p>RIT Student Hire Forms are to be completed and returned to the SEO for processing by the employer.</p></li>
 	</ul>
 
 	<p>The SEO will no longer publish the annual Co-op Wage Schedule. Employers may use their own discretion when assigning co-op wages. For assistance, employers may contact the Co-op Office at 475-2301 to request a copy of their most recent Co-op Wage Survey.</p>
-	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment quarter. They are also eligible for sick pay on the ratio of two days per quarter worked. Sick day benefits are cumulative to a maximum of six paid sick days. On-campus co-op students are not eligible for Unemployment Insurance Benefits. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op.</p>
+	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment semester. They are also eligible for sick pay on the ratio of two days per fall and/or spring semester worked, and one sick day per summer. Sick day benefits are cumulative to a maximum of five (5) paid sick days per year. On-campus co-op students are not eligible for Unemployment Insurance Benefits. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -302,7 +307,7 @@
 	</ul>
 
 	<p>The employing department will determine into which category the student will be hired.  Graduate Assistants must go through the same employment eligibility process as undergraduate students.  GA’s must also be registered full-time status or have a full-time equivalency for all semesters they are to work.  Generally speaking, graduate assistantships run from September until the end of May.  During summer, GA’s are hired as regular student workers.</p>
-	<p>Additional Graduate Assistant information, including wage information,  may be found at <a href="http://finweb.rit.edu/controller/graduate/">http://finweb.rit.edu/controller/graduate/</a>.</p>
+	<p>Additional Graduate Assistant information, including wage information,  can be found at <a href="http://finweb.rit.edu/controller/graduate/">http://finweb.rit.edu/controller/graduate/</a>.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -332,6 +337,42 @@
 	<p>Students should make a serious attempt to resolve any on the job problems with supervisors or peers. If the problem cannot be resolved at this level, then an appointment should be made with a staff member of Student Employment. Student Employment will in turn, contact the supervisor or peer in a final attempt to resolve the problem informally. If informal attempts to resolve the problem are unsatisfactory, a formal grievance procedure is available. Additional information can be found at <a href="http://finweb.rit.edu/humanresources/policies/unethicalconduct.html">University Resources for Discussing and/or Reporting Concerns about Unethical Conduct, Harassment, or Discrimination</a>.</p>
 	<p>Students, who have completed the employment eligibility process and have worked for an on-campus employer for three weeks or more without receiving a paycheck, should check with their supervisor as soon as the first expected paycheck is not received. Often times the problem can be rectified immediately and arrangements can be made for the student to receive partial payment of wages owed. If the supervisor cannot assist the student with the problem, then the student is advised to contact the Student Employment Office.</p>
 	<p>Remember, the benefits of working extend far beyond the obvious financial ones. Getting a job and working to the best of your ability will provide valuable learning experience not otherwise available. Your job may or may not be career related, but you will have opportunities for growth and success!</p>
+
+	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
+</div>
+
+<div class="section">
+	<h2 id="19">19. Summer Employment</h2>
+
+	<p>Students who meet the following criteria are eligible to work up to 40 hours per week during summer semester if the following criteria are met:</p>
+	
+	<ul>
+		<li><p>Must be matriculated, and registered full-time status Spring Semester</p></li>
+		<li><p>Are registered for 0 credits for continuation of thesis for summer and/or fall that can be verified via STARS.</p></li>
+		<li><p><b>ANY</b> of the following:</p></li>
+		<li>
+			<ul>
+				<li><p>Must be registered for at least 4 credit hours for summer session.</p></li>
+				<li><p>Are registered for 0 credit hours for summer, but are registered for at least 3 credit hours for fall.</p></li>
+				<li><p>Are registered for at least 3 credit hours for both summer and fall.</p></li>
+			</ul>
+		</li>
+	</ul>
+
+	<p>Students working in on-campus summer co-op positions must be registered for co-op for summer session.</p>
+	<p>The same criteria apply to international students who are not enrolled for classes during summer session.</p>
+
+	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
+</div>
+
+<div class="section">
+	<h2 id="20">20. Intersession</h2>
+
+	<p>Students are eligible to work up to 40 hours per week during intersession if they were registered full-time status for fall semester <b>AND</b> are registered for spring semester.  Students who are enrolled for classes during the intersession, may work up to 20 hours per week.  </p>
+
+	<p>The same criteria apply to international students.</p>
+
+	<p>Remember, the benefits of working extend far beyond the obvious financial ones. Getting a job and working to the best of your ability will provide valuable learning experience not otherwise available. Your job may or may not be career related, but you will have opportunities for growth and success! </p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>

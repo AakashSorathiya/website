@@ -66,22 +66,18 @@
 		<p>
 			<u><b>Joanne Stuewe</b></u><br>
 			Senior Associate Director<br>
-			<a href="mailto:jmsseo@rit.edu">jmsseo@rit.edu</a>
 		</p>
 		<p>
-			<u><b>Amanda Feeney</b></u><br>
+			<u><b>Amanda Henry</b></u><br>
 			Assistant Director<br>
-			<a href="mailto:ajfseo@rit.edu">ajfseo@rit.edu</a>
 		</p>
 		<p>
 			<u><b>Lillieth Christopher</b></u><br>
-			Student Employment Assistant<br>
-			<a href="mailto:lpcseo@rit.edu">lpcseo@rit.edu</a>			
+			Student Employment Assistant<br>		
 		</p>
 		<p>
 			<u><b>Lizabeth Dailey</b></u><br>
 			Student Employment Assistant<br>
-			<a href="mailto:lrdseo@rit.edu">lrdseo@rit.edu</a>
 		</p>
 	</address>
 
@@ -142,11 +138,12 @@
 <div class="section">
 	<h2 id="6">6. On-Campus Employment Eligibility</h2>
 
-	<p>For the purpose of on-campus employment, an eligible student is defined as one who has been matriculated into a degree program at RIT and is taking at least twelve (12) credit hours of course work per semester.</p>
+	<p>For the purpose of on-campus employment, an eligible student is defined as one who has been matriculated into a degree program at RIT and is taking at least twelve (12) credit hours of course work per semester as an undergraduate student and nine (9) credit hours of course work per semester as a graduate student.</p>
 	<p>A student taking less than twelve credit hours, but at least three credit hours, may be permitted to work on-campus if he/she has been matriculated and enrolled full-time in the previous semester and is registered full-time for the following semester or intersession or has written documentation from the academic department of study that the student will return to full-time status in the next semester. In addition, students who are required to take less than twelve credits in order to complete the requirements for their degree, and who expect to graduate at the end of the semester, may be permitted to work until the end of that semester.</p>
 	<p>For on-campus <u><b>summer</b></u> employment, students do not need to be registered for classes as long as the student was registered full-time for spring semester <b>AND</b> is registered for fall semester. Students registered part or full-time for summer do not need verification of registration status for fall to work during the summer as long as they were full-time status for the spring semester.</p>
 	<p>In addition to the above, students registered part-time for credit bearing courses and part-time for non-credit bearing courses, the total of which would be equivalent to full-time status, are allowed to work as student employees. Written verification from the student’s academic department of study may be required for employment.</p>
-	<p>During break periods (does <b>NOT</b> include summer), a person who has matriculated and been admitted for the following quarter as a full-time student may work once his/her status can be verified.</p>
+	<p>For on-campus employment during Intersession, students do not need to be registered during this time period(January 2 - January 24, 2014) as long as the student was registered full-time status during the fall semester and is registered for spring semester.  During Intersession, students may work up to 20 hours per week if enrolled, and up to 40 hours per week if not enrolled in classes.  The same criteria holds true for international students.</p>
+	<p>During break periods (does <b>NOT</b> include summer), a person who has matriculated and been admitted for the following semester as a full-time student may work once his/her status can be verified.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -155,11 +152,18 @@
 <div class="section">
 	<h2 id="7">7. I-9 Form and Employment Eligibility Card</h2>
 
-	<p>In compliance with the Immigration Control and Reform Act of 1986, students must also complete the I-9 Form and submit <b>ORIGINAL</b> documentation to the SEO staff which verifies their eligibility to work. Students will not be allowed to work on-campus without proper employment eligibility verification. <b>Failure to comply with this governmental regulation may result in fines of up to $10,000 per infraction imposed upon the employing department.</b></p>
-	<p>New student workers (students who have never worked on-campus) must first have an offer of employment from an RIT employer prior to completing the I-9 Form. After making an offer of employment, employers are required to complete the 'Student Employment Verification Slip' and give it to the student to bring to the Student Employment Office. The student should also be provided with the web address to complete Section 1 of the government mandated I-9 Form.  Section 1 of the I-9 Form must be completed by the student immediately after being hired, but prior to going to the Student Employment Office with their required documentation.</p>
+	<p>In compliance with the Immigration Control and Reform Act of 1986, students must also complete the I-9 process as outlined and submit <b>ORIGINAL</b> documentation to the SEO staff which verifies their eligibility to work. Students will not be allowed to work on-campus without proper employment eligibility verification. <b>Failure to comply with this governmental regulation may result in fines of up to $10,000 per infraction imposed upon the employing department.</b></p>
+	<p>To complete the I-9 process, new student workers (students who have never worked on-campus) must:</p>
+	<ul>
+		<li>First have an offer of employment from an RIT employer</li>
+		<li>Receive the Employment Verification Slip from the employer with the jobs start date to bring to SEO.</li>
+		<li>The student should also be provided with the web address to complete Section 1 of the government mandated I-9 Form- <a href="http://www.newi9.com">(http://www.newi9.com). Employer number is 15083.</a></li>
+		<li>Section 1 of the I-9 Form must be completed by the student immediately after being hired, but prior to going to the Student Employment Office with their required documentation.</li>
+		<li>To ensure government mandated compliance, students must complete Section 1 of the I-9 Form prior to or no later than the first day of employment <b>AND</b> must bring required documentation to the Student Employment Office to complete Section 2 of the I-9 Form, within three days of the first day of hire.  Failure to do so may result in fines being imposed by the federal government.</li>
+	</ul>
 	<p>Students who have met all employment criteria (completed I-9 and full-time registration status) will be given an Employment Eligibility Card, or SEO Card, the color of which will change each academic year.  An up-to-date eligibility card will verify registration status for the current semester or intersession, in addition to  I-9 and visa status, and Federal Work-Study award. <b>This card verifies to you, the employer, that the student is eligible to work on-campus.</b></p>
 	<p><u><b>Students cannot begin employment until their employment eligibility has been verified.</b></u> If the student is allowed to work prior to completing the government mandated I-9 Form, a fine of up to $10,000 may be imposed by the federal government.</p>
-	<p>Students are eligible to work a maximum of twenty (20) hours per week during periods when classes are in session and up to forty (40) hours per week during break periods and summer.</p>
+	<p>Students are eligible to work a maximum of twenty (20) hours per week during periods when classes are in session and up to forty (40) hours per week during break periods, Intersession and summer.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -172,16 +176,16 @@
 
 	<ul>
 		<li><p>Receive an offer of employment from an RIT on-campus employer.  Employers must provide new international student workers with the Student Employment Verification Slip to present to Student Employment before an I-9 can be completed.</p></li>
-		<li><p>Employers must also provide new hires with the web address to complete Section 1 of the government mandated I-9 Form.</p></li>
-		<li><p>Complete Section 1 of the on-line I-9 Form immediately after being hired and prior to going to the Student Employment Office to complete the verification process.</p></li>
-		<li><p>Complete the I-9 process in the Student Employment Office by presenting required documentation to prove identity and eligibility to work.</p></li>
-		<li><p>Be enrolled full-time with a minimum of twelve credit hours or have a full-time equivalency for the semester(s) of employment.</p></li>
-		<li><p>Have a valid F-1 visa with I-20 or valid J-1 visa with DS-2019.</p></li>
+		<li><p>Employers must also provide new hires with the web address to complete Section 1 of the government mandated I-9 Form <a href="http://www.newi9.com">(http://www.newi9.com). Employer number is 15083.</a></p></li>
+		<li><p>Complete Section 1 of the on-line I-9 Form immediately after being hired and prior to going to the Student Employment Office to complete the verification process.  This process must be completed prior to or no later than the first day of employment.</p></li>
+		<li><p>Complete Section 2 of the I-9 process in the Student Employment Office by presenting required documentation to prove identity and eligibility to work within three (3) days of the job start date.</p></li>
+		<li><p>Be enrolled full-time with a minimum of twelve credit hours (undergraduate students) or nine credit hours (graduate students) or have a full-time equivalency for the semester(s) of employment.</p></li>
+		<li><p>Have a valid F-1 visa with I-20 or valid J-1 visa with DS-2019 or I-94.</p></li>
 	</ul>
 
 	<p>Once these criteria are met, the Student Employment Office will issue the International Student an Employment Eligibility Card. If the International Student does not already have a Social Security Card, please see the section on <a href="#9">International Students Without a Social Security Card</a> for the proper hiring procedure.</p>
 	<p>International Students are eligible to work up to twenty (20) hours per week during academic semesters and up to forty (40) hours per week during break periods, intersession,  and summer.</p>
-	<p>International Students are responsible for keeping their visa status up-to-date. They must notify the Student Employment Office whenever their  I-20 (F1 Visas) or DS-2019 (J1 Visas) is updated. Students with expired documents are not eligible to work. Thirty days prior to a student's I-20 or DS-2019 expiration date, employers will receive an e-mail alert advising them that a student's documents are about to expire. At the end of the 30 days, if the student has not updated his/her visa in the SEO, the student will be terminated from employment. There are certain criteria that must be met in order for International Students to be eligible to work off-campus. For more information, contact the ISSO.</p>
+	<p>International Students are responsible for keeping their visa status up-to-date. They must update their records the Student Employment Office whenever their  I-20 (F1 Visas) or DS-2019 (J1 Visas) is updated. Students with expired documents are not eligible to work. Thirty days prior to a student's I-20 or DS-2019 expiration date, employers will receive an e-mail alert advising them that a student's documents are about to expire. At the end of the 30 days, if the student has not updated his/her visa in the SEO, the student will be terminated from employment. There are certain criteria that must be met in order for International Students to be eligible to work off-campus. For more information, contact the ISSO.</p>
 	<p>International Students are eligible for 12 months of Optional Practical Training (OPT). OPT provides an opportunity to apply theoretical knowledge with practical work. Such employment may take place at any location in the United States. For more information, contact the ISSO.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
@@ -191,7 +195,7 @@
 <div class="section">
 	<h2 id="9">9. International Students Without a Social Security Card</h2>
 
-	<p>If an International Student does not already have a Social Security Card when hired, the student must be given a copy of the hire paperwork with an <u><b>original employer signature</b></u> by the employer which will serve as verification of employment when the student applies for a Social Security Card.</p>
+	<p>If an International Student does not already have a Social Security Card when hired, the student must be given a copy of the hire paperwork with an <u><b>original employer signature in blue ink</b></u> by the employer which will serve as verification of employment when the student applies for a Social Security Card.</p>
 	<p>Employers must also send the Hire Form to the SEO, using the International Student's University ID Number. The SEO will process the paperwork and the student will be paid. However, the International Student's paycheck will be sent to the International Student Services Office (ISSO) until the student receives his/her Social Security Card. Employers will receive an alert on the new International student's first pay day as a reminder that the student's paycheck can be picked up in the International Student Services Office until they receive their social security number.</p>
 	<p>Once the International Student receives their Social Security Card, paychecks will be sent to the student's employer, or to direct deposit, whichever the student prefers.</p>
 
@@ -245,7 +249,7 @@
 		<li>
 			<p>Once an offer of employment has been made:</p>
 			<ul>
-				<li><p><u>New student workers</u> must be given an 'Student Employment Verification Slip' to bring to the SEO in order to complete the employment verification process  and the web site information to complete Section 1 of the government mandated 1-9 Form.</p></li>
+				<li><p><u>New student workers</u> must be given an 'Student Employment Verification Slip' to bring to the SEO in order to complete the employment verification process  and the web site information to complete Section 1 of the government mandated 1-9 Form- <a href="http://www.newi9.com">(http://www.newi9.com). The Employer number is 15083.</a></p></li>
 				<li><p><u>Returning student workers</u> (students who have previously worked on-campus) must present Employment Eligibility Card, verified for the semester in which the student is to work.</p></li>
 			</ul>
 		</li>
@@ -254,7 +258,7 @@
 	</ul>
 
 	<p>Academic Direct Hire Positions are of an academic nature in which academic performance and background are the primary determinants of hiring (i.e. Printing Lab Assistants, Tutor/Note takers, etc.). Hiring procedures are the same as for regular student employees.</p>
-	<p>Students may be rehired directly by a department in which they have previously been employed. Supervisors must ask to see the student's current Employment Eligibility Card. If the card is current, complete the Student Employment Hire Form and return it to SEO. It is essential that the student is a matriculated full-time student, taking a minimum of 12 credit hours per semester. The SEO staff will check each rehire for employment eligibility. Supervisors will be notified by the SEO if a rehired student is not eligible for on-campus employment.</p>
+	<p>Students may be rehired directly by a department in which they have previously been employed. Supervisors must ask to see the student's current Employment Eligibility Card. If the card is current, complete the Student Employment Hire Form and return it to SEO. It is essential that the student is a matriculated full-time student, taking a minimum of 12 credit hours per semester for undergraduate and 9 credit hours for graduate students. The SEO staff will check each rehire for employment eligibility. Supervisors will be notified by the SEO if a rehired student is not eligible for on-campus employment.</p>
 	<p>Student employees may be terminated under any of the following conditions:</p>
 
 	<ol>
@@ -386,7 +390,7 @@
 <div class="section">
 	<h2 id="21">21. General Payroll Information</h2>
 
-	<p>Students are paid on a bi-weekly basis every other Friday. Information regarding exact pay dates for the current academic year can be found in the <a href="/seo/assets/docs/pay-schedule.pdf">RIT Bi-Weekly Pay Schedule</a>. Individual personal checks are sent to the departments for which the student works. Students with direct deposit may access their check stub on-line by using Oracle Self-Service. Further information regarding sign-up procedures may be obtained from the Payroll Office. When a student works for more than one department, the earnings from all jobs are combined into one paycheck. The check is sent to the department that most recently hired the student, unless the student requests it sent to a different department.</p>
+	<p>Students are paid on a bi-weekly basis every other Friday. Information regarding exact pay dates for the current academic year can be found in the <a href="/seo/assets/docs/2014-bi-weekly-pay-schedule.pdf">RIT Bi-Weekly Pay Schedule</a>. Individual personal checks are sent to the departments for which the student works. Students with direct deposit may access their check stub on-line by using Oracle Self-Service. Further information regarding sign-up procedures may be obtained from the Payroll Office. When a student works for more than one department, the earnings from all jobs are combined into one paycheck. The check is sent to the department that most recently hired the student, unless the student requests it sent to a different department.</p>
 	<p>Direct deposit of wages is highly recommended for student workers. Forms can be obtained from the SEO or Payroll websites or by stopping by the Payroll or Student Employment Offices. Students taking advantage of the direct deposit option can view their paystubs online. For access, students must logon to <a href="http://finweb.rit.edu/controller/payroll/">http://finweb.rit.edu/controller/payroll/</a>, and follow the directions provided.</p>
 	<p>If a department wishes to hire a student for a special project of short duration, requiring a one-time payment, the employer must complete the student Hire Form and write, "One-Time Pay" in place of the job number. An hourly wage must be given. For back wages, a payroll change form must also be completed and sent to payroll.</p>
 
@@ -400,8 +404,18 @@
 	<p>Earnings, including FWS earnings, are subject to all Federal, State and Local taxes. All students must file a W-4 form for tax purposes when they begin to work at RIT. Students are not eligible to claim "exempt" on the W-4 form if any of the following applies:</p>
 
 	<ul>
-		<li><p>The student's income exceeds $800 and his income includes more than $250 of unearned income (for example, interest and dividends) AND the student can be claimed by another person as a dependent on their tax return.</p></li>
+		<li><p>The student's income exceeds $1,000 and his income includes more than $350 of unearned income (for example, interest and dividends) AND the student can be claimed by another person as a dependent on their tax return.</p></li>
+		<li><p>Last year the student had a right to refund all federal income tax withheld due to no tax liability.</p></li>
 		<li><p>The student's income exceeds $8,200 for 2006 (earned income is more than one standard deduction in the amount of $5,000 and one exemption in the amount of $3,200) AND the student cannot be claimed by another person as a dependent on their tax return.</p></li>
+	</ul>
+
+	<p>Students are not eligible to claim "exempt" on the IT-2104 unless the following conditions are met:</p>
+
+	<ul>
+		<li><p>Student must be full-time status and under the age of 25.</p></li>
+		<li><p>Student did not have a New York income tax liability for the previous year.</p></li>
+		<li><p>Student does not expect to have a New York income tax liability for the current year.</p></li>
+		<li><p>Student meets the conditions set forth under the Service Members Civil Relief Act, as amended by the Military Spouses Residency Relief Act.</p></li>
 	</ul>
 
 	<p>Students who are registered for a minimum of six (6) credit hours per quarter will be exempt from Social Security Taxes (FICA).</p>
@@ -440,7 +454,7 @@
 		<li>
 			<p>Once an offer of employment has been made:</p>
 			<ul>
-				<li><p><u>New student workers</u> must be given a 'Student Employment Verification Slip' to bring to the SEO in order to complete the employment verification process and employers must provide the student with the website information to complete Section 1 of the government mandated I-9 Form.</p></li>
+				<li><p><u>New student workers</u> must be given a 'Student Employment Verification Slip' to bring to the SEO in order to complete the employment verification process and employers must provide the student with the website information to complete Section 1 of the government mandated I-9 Form -<a href="http://www.newi9.com">(http://www.newi9.com).</a>  The Employer Number is 15083.  The student must also complete Section 2 of the I-9 Form in the Student Employment Office as indicated in Section 7, “I-9 Process and Employment Eligibility Card”.</p></li>
 				<li><p><u>Returning student workers</u> (students who have previously worked on-campus) must present their current Employment Eligibility Card, verified for the semester the student is to work.</p></li>
 				<li><p>RIT Student Hire Forms are to be completed and returned to SEO for processing <u>after co-op students present their current Employment Eligibility Card.</u></p></li>
 				<li><p>The appropriate NYS Notice and Acknowledgement of Pay Rate and Payday Form must be completed for all new student workers.</p></li>
@@ -449,7 +463,7 @@
 	</ul>
 
 	<p>The SEO will no longer publish the annual Co-op Wage Schedule. Employers may use their own discretion when assigning co-op wages. For assistance, employers may contact the Co-op Office at 475-2301 to request a copy of their most recent Co-op Wage Survey.</p>
-	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment quarter. They are also eligible for sick pay on the ratio of three days per fall or spring semester worked. Sick day benefits are cumulative to a maximum of six (6) paid sick days. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op and physically working on the RIT campus.</p>
+	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment semester. They are also eligible for sick pay on the ratio of three days per fall and/or spring semester worked, and one sick day for summer co-op employment. Sick day benefits are cumulative to a maximum of five (5) paid sick days per year. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op and physically working on the RIT campus.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -462,7 +476,7 @@
 
 	<ul>
 		<li><p>Students must be academic level 6 or 7</p></li>
-		<li><p>Students must be registered full-time status during the duration of the assistantship</p></li>
+		<li><p>Students must be registered full-time status (9 credit hours) during the duration of the assistantship or have a full-time equivalency for semesters in which they work.</p></li>
 		<li><p>Students must meet all eligibility requirements as outlined in <a href="#12">Section 12. Employment</a></p></li>
 		<li><p>Hire paperwork along with a completed Graduate Assistant Job Description Form must be sent to SEO for processing</p></li>
 		<li><p>The appropriate NYS Notice and Acknowledgement of Pay Rate and Payday Form must be included for all new student workers</p></li>
@@ -503,7 +517,7 @@
 <div class="section">
 	<h2 id="27">27. Additional SEO Information and Forms</h2>
 
-	<p>All forms needed to employ a student on-campus, such as the SEO Job Description Form, SEO Hiring Form, and the SEO Payroll Change Form can be found at the SEO website, <a href="?/employers/resources">Employment Resources</a> section.</p>
+	<p>All forms needed to employ a student on-campus, such as the SEO Job Description Form, SEO Hiring Form, and the SEO Payroll Change Form can be found at the SEO website, <a href="?/employers/resources">Employment Resources</a> section.  Please use the most recent forms as currently found on the SEO website as they are frequently updated to reflect changes in employment requirement</p>
 	<p>In addition, all mentioned documents in this handbook, such as the RIT Bi-Weekly Pay Schedule, Student Wage Schedule, and the On-Campus Employment Handbook can be found in the <a href="?/employers/resources">Employer Resources</a> section.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
@@ -543,7 +557,6 @@
 	</ul>
 
 	<p>Students working in on-campus summer co-op positions must be registered for co-op for summer session.</p>
-	<p>The same criteria apply to international students who are not enrolled for classes during summer session.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -553,7 +566,7 @@
 	<h2 id="30">30. Intersession</h2>
 
 	<p>Students are eligible to work up to 40 hours per week during intersession if they were registered full-time status for fall semester <b>AND</b> are registered for spring semester.  Students, who are taking classes during the intersession, may work up to 20 hours per week.</p>
-	<p>The same criteria apply to international students.</p>
+	<p>The same criteria apply to international students who are not enrolled for classes during summer session.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
