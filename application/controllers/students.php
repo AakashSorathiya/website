@@ -65,7 +65,7 @@ class Students extends SEO_Controller {
 					"job_number" => $job_number
 				);
 
-				$this->data['body'] = $this->load->view('students/oncampus/view', $data, TRUE);
+				$this->data['body'] = $this->load->view('students/offcampus/view', $data, TRUE);
 			} catch(Exception $e) {}
 		}
 
