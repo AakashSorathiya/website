@@ -287,7 +287,7 @@
 	</ul>
 
 	<p>The SEO will no longer publish the annual Co-op Wage Schedule. Employers may use their own discretion when assigning co-op wages. For assistance, employers may contact the Co-op Office at 475-2301 to request a copy of their most recent Co-op Wage Survey.</p>
-	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment semester. They are also eligible for sick pay on the ratio of two days per fall and/or spring semester worked, and one sick day per summer. Sick day benefits are cumulative to a maximum of five (5) paid sick days per year. On-campus co-op students are not eligible for Unemployment Insurance Benefits. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op.</p>
+	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment semester. They are also eligible for sick pay on the ratio of two days per fall and spring semester and one sick day per summer co-op employment for a total of five sick days for the academic year. Sick day benefits are cumulative to a maximum of five (5) paid sick days per year. On-campus co-op students are not eligible for Unemployment Insurance Benefits. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>

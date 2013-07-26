@@ -22,7 +22,7 @@
 <ul>
 	<li><p><a href="/seo/assets/docs/LS54.pdf" target="_blank">Notice for Hourly Rate Employees</a></p></li>
 	<li><p><a href="/seo/assets/docs/LS55.pdf" target="_blank">Notice for Multiple Hourly Rate Employees</a></p></li>
-	<li><p><a href="/seo/assets/docs/LS59.pdf" target="_blank">Notice for Except	Employee</a></p></li>
+	<li><p><a href="/seo/assets/docs/LS59.pdf" target="_blank">Notice for Exempt Employee</a></p></li>
 
 	<p>In addition to the forms listed above, student employees may also need to fill out the forms listed below. These forms are provided for your reference. <b>All student inquiries regarding these forms should be directed to Payroll, 475-2381, Eastman Building, first floor</b>.</p>
 
