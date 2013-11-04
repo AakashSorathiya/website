@@ -3,6 +3,7 @@
 
 	echo meta( 'apple-mobile-web-app-capable', 'yes' );
 	echo meta( 'apple-mobile-web-app-title', 'RITSEO' );
+	echo meta( 'apple-mobile-web-app-status-bar-style', 'black-translucent' );
 
 	echo link_tag( array( 'href' => 'assets/img/ios/Icon-72.png', 'rel' => 'apple-touch-icon', 'sizes' => '72x72' ) );
 	echo link_tag( array( 'href' => 'assets/img/ios/Icon-72@2x.png', 'rel' => 'apple-touch-icon', 'sizes' => '144x144' ) );
