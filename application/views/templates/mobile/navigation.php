@@ -15,6 +15,7 @@
 					<li><a class="ajaxLoad" href="?/home/news">Announcements</a></li>
 					<li><a class="ajaxLoad" href="?/home/calendar">Calendar</a></li>
 					<li><a class="ajaxLoad" href="?/home/contact">Contact Us</a></li>
+					<li><a href="/seo/assets/docs/2014-wage-schedule.pdf" target="_blank">New 2014 Wage Schedule</a></li>
 					<li class="divider"></li>
 
 					<li><a class="ajaxLoad" href="?/students">Students</a></li>

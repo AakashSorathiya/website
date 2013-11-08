@@ -7,6 +7,7 @@
 			<li><a href="?/home/news">Announcements</a></li>
 			<li><a href="?/home/calendar">Calendar</a></li>
 			<li><a href="?/home/contact">Contact Us</a></li>
+			<li><a href="/seo/assets/docs/2014-wage-schedule.pdf" target="_blank">New 2014 Wage Schedule</a></li>
 		</ul>
 	</div>
 

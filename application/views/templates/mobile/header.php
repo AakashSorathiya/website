@@ -35,7 +35,7 @@
 		width: 100%;
 	}
 
-	.navbar-inner {
+	.navbar-inner {z
 		border-radius: 0;
 		border-right: 0;
 		border-left: 0;
