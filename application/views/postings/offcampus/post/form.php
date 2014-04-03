@@ -6,7 +6,7 @@
 <div class="alert alert-warning">
 	<button type="button" class="close" data-dismiss="alert">&times;</button>
 	<h2>Job Discrimination Disclaimer</h2>
-	<p style="font-size: .8em;">
+	<p style="font-size: .85em;">
 	All job listings are posted at the discretion of the Student Employment Office (SEO). SEO will
 	not post jobs that appear to discriminate against applicants on the basis of age, sex, pregnancy, 
 	race, color, marital status, religion, sexual harassment, national origin, physical disability, 
