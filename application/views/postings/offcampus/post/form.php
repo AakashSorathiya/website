@@ -3,6 +3,20 @@
 <p>Before submitting, please ensure that all required fields have been filled in.  Required fields are dented with a *.</p>
 <p>Once the form is submitted, the job posting will be viewable online within 24 hours. All off-campus job postings will be removed from the SEO website 30 days after being posted. If the position is filled before 30 days, please <a href="?/home/contact/">contact the SEO</a> so that the job posting can be removed.</p>
 
+<div class="alert alert-warning">
+	<button type="button" class="close" data-dismiss="alert">&times;</button>
+	<h2>Job Discrimination Disclaimer</h2>
+	<p style="font-size: .8em;">
+	All job listings are posted at the discretion of the Student Employment Office (SEO). SEO will
+	not post jobs that appear to discriminate against applicants on the basis of age, sex, pregnancy, 
+	race, color, marital status, religion, sexual harassment, national origin, physical disability, 
+	mental disability or sexual orientation. Additionally, we will not post positions that are 'commission-only',
+	where applicants must pay a fee, unpaid opportunities, or on behalf of third-party recruiters who cannot 
+	disclose the company and brand name they are representing. SEO reserves the right to refuse to post jobs 
+	that do not support the interests of the college and/or the students
+	</p>
+</div>
+
 <div class="alert alert-info">
 	<h2>Notice to ALL Off-Campus Employers</h2>
 	<p>
