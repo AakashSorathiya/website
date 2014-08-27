@@ -7,7 +7,7 @@
 			<li><a href="?/home/news">Announcements</a></li>
 			<li><a href="?/home/calendar">Calendar</a></li>
 			<li><a href="?/home/contact">Contact Us</a></li>
-			<li><a href="/seo/assets/docs/2014-jan-wage-schedule.pdf" target="_blank">New 2014 Wage Schedule</a></li>
+			<li><a href="/seo/assets/docs/2014-jan-wage-schedule.pdf" target="_blank">2014 Wage Schedule</a></li>
 		</ul>
 	</div>
 
@@ -33,6 +33,7 @@
 			<li><a href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li>
 			<li><a href="?/employers/resources">Employer Resources</a></li>
 			<li><a href="?/employers/handbook">Employer Handbook</a></li>
+			<li><a href="/seo/assets/docs/2015-bi-weekly-pay-schedule.pdf" target="_blank">New 2015 Bi-Weekly Pay Schedule</a></li>
 		</ul>
 	</div>
 </div>
