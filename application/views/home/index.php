@@ -1,5 +1,13 @@
 <h1><b>Student Employment Office</b></h1>
 
+<div class="section alert alert-danger">
+
+	<h2>Spring Break Hours:</h2>
+
+	<p>Student workers may work up to 40 hours between March 21st and March 29th.</p>
+
+</div>
+
 <div class="section alert alert-info">
 	<h2>New I-9 Verification Process Effective Immediately!</h2>
 
