@@ -33,7 +33,7 @@
 			<li><a href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li>
 			<li><a href="?/employers/resources">Employer Resources</a></li>
 			<li><a href="?/employers/handbook">Employer Handbook</a></li>
-			<li><a href="/seo/assets/docs/2016-biweekly-payschedule.pdf" target="_blank">New 2016 Bi-Weekly Pay Schedule</a></li>
+			<li><a href="/seo/assets/docs/2016-bi-weekly-pay-schedule.pdf" target="_blank">New 2016 Bi-Weekly Pay Schedule</a></li>
 		</ul>
 	</div>
 </div>
