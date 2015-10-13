@@ -8,7 +8,7 @@
 
 	<p>Before getting a job on campus, there are a few steps that you must take in order to obtain a position.</p>
 	<ol>
-		<li><p>Ensure that you are currently registered for 12 credit hours or more.  You cannot be a student worker if you are not currently a student.  For any additional restrictions, see the section on <a href="#registration">Registration Requirements</a>.</p></li>
+		<li><p>Ensure that you are currently registered for full-time status.  You cannot be a student worker if you are not currently a student.  For any additional restrictions, see the section on <a href="#registration">Registration Requirements</a>.</p></li>
 		<li><p>Find a position with a place on campus.  For more information on how to do this, see the section below on <a href="#find">Finding an on Campus Employer</a>.</p></li>
 		<li><p>Once you have received an offer from an employer, come to the Student Employment Office to obtain your Employment Eligibility Card.  Be sure to read the section on <a href="#requirements">SEO Employement Eligibility Card Requirements</a> before coming to the office.</p></li>
 	</ol>
@@ -19,7 +19,9 @@
 	<h2 id="registration"><b>Registration Requirements</b></h2>
 	<ul>
 		<li><p>You need to be registered for classes before you can apply for the SEO Employment Eligibility Card - you can't be a student worker if you are not a student!</p></li>
-		<li><p>Make sure you are registered for at least 12 credit hours - If you don't know if you are registered, contact the Registrar's at 475-2821 or your academic advisor or staff person from the department you are majoring in.</p></li>
+		<li><p>Make sure you are registered for full-time status - If you don't know if you are registered, contact the Registrar's at 475-2821 or your academic advisor or staff person from the department you are majoring in.</p></li>
+		<li><p>Undergraduate Students: 12 or more credits</p></li>
+		<li><p>Graduate Students: 9 or more credits</p></li>
 	</ul>
 </div>
 
