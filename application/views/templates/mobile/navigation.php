@@ -15,7 +15,8 @@
 					<li><a class="ajaxLoad" href="?/home/news">Announcements</a></li>
 					<li><a class="ajaxLoad" href="?/home/calendar">Calendar</a></li>
 					<li><a class="ajaxLoad" href="?/home/contact">Contact Us</a></li>
-					<li><a href="/seo/assets/docs/2014-jan-wage-schedule.pdf" target="_blank">New 2014 Wage Schedule</a></li>
+					<li><a href="/seo/assets/docs/2015-wage-schedule.pdf" target="_blank">2015 Student Wages</a></li>
+					<li><a href="http://www.newi9.com/" target="_blank">I-9 Process</a></li>
 					<li class="divider"></li>
 
 					<li><a class="ajaxLoad" href="?/students">Students</a></li>

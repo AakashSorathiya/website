@@ -1,19 +1,11 @@
 <h1><b>Student Employment Office</b></h1>
 
-<div class="section alert alert-danger">
-
-	<h2>Spring Break Hours:</h2>
-
-	<p>Student workers may work up to 40 hours between March 21st and March 29th.</p>
-
-</div>
-
 <div class="section alert alert-info">
-	<h2>New I-9 Verification Process Effective Immediately!</h2>
+	<h2>I-9 Verification Process Effective</h2>
 
 	<h3 style="margin-bottom: 1%;">*This is not a job application!</h3>
 
-	<p>The I-9 verification process has gone electronic!  New student employees are now able to complete Section 1 of the government mandated I-9 form from any computer.  If you are a new student worker, please follow the process as outlined below:</p>
+	<p>New student employees are able to complete Section 1 of the government mandated I-9 form from any computer.  If you are a new student worker, please follow the process as outlined below:</p>
 	<ol>
 		<li><u>You must first receive an offer of employment from an RIT employer.</u></li>
 		<li>Log-on to I-9 Express by going to <a href="http://www.newi9.com/">http://www.newi9.com</a>.</li>
@@ -24,6 +16,11 @@
 		<li>Once SEO has completed Section 2, the I-9 process will be complete!</li>
 	</ol>
 </div>
+
+<center>
+	<img class="img-polaroid" src="./assets/img/live/seo.jpeg" />
+</center>
+<br>
 
 <p>
 	<table class="table">
@@ -47,15 +44,10 @@
 	</table>
 </p>
 
-<center>
-	<img class="img-polaroid" src="./assets/img/live/seo.jpeg" />
-</center>
-<br>
-
 <h2><b>New Student Employees</b></h2>
 <p>Welcome to RIT and the first steps of obtaining on campus employment!  Below is a brief overview of what you should know and do for your first quarter at RIT.</p>
 <ul>
-	<li><p>Make sure you are registered for at least 12 credit hours this quarter.</p></li>
+	<li><p>Make sure you are registered for full-time status for the semester.</p></li>
 	<li><p>Read through the <a href="?/home/job/">Getting a Job</a> page to learn about how to go about finding a job on campus.</p></li>
 </ul>
 
