@@ -4,7 +4,8 @@
 	<img class="img-polaroid pull-right" src="./assets/img/live/student.jpg" />
 
 	<p>New students who wish to work on-campus must first receive an offer of employment from an on-campus employer. At this time, your new supervisor will complete a 'Student Employment Verification Slip' for you to bring to the Student Employment Office so you will be able to get your Employment Eligibility Card.</p>
-	<p>You will be required to complete the government mandated I-9 Form and submit original documentation to prove identity and employment eligibility. <u>This process must be completed in person in the Student Employment Office (SEO).</u> The SEO is located in the University Services Center in Room 1350. Office hours are Monday - Friday, 8:30am - 4:30pm.</p>
+	<p>You will be required to complete the government mandated I-9 Form and submit original documentation to prove identity and employment eligibility. <u>This process must be completed in person in the Student Employment Office (SEO).</u> The SEO is located in the University Services Center in Room 1350.</p>
+	<p>Office hours are Monday - Friday, 8:30am - 4:30pm.</p>
 	<p>In order to work on-campus, students must:</p>
 
 	<ol>

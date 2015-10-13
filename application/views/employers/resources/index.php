@@ -37,7 +37,5 @@
 	<li><p><a href="/seo/assets/docs/student-appraisal-form.pdf" target="_blank">Student Employee Appraisal Form</a></p></li>
 	<li><p><a href="/seo/assets/docs/confidentiality-agreement.pdf" target="_blank">Confidentiality Agreement</a></p></li>
 	<li><p><a href="/seo/assets/docs/timekeeping.pdf" target="_blank">Time Keeping Compliance FAQ</a></p></li>
-	<li><p><a href="/seo/assets/docs/2015-bi-weekly-pay-schedule.pdf" target="_blank">New 2015 Bi-Weekly Pay Schedule</a></p></li>
-	<li><p><a href="/seo/assets/docs/2014-bi-weekly-pay-schedule.pdf" target="_blank">2014 Bi-Weekly Pay Schedule</a></p></li>
-	<li><p><a href="http://finweb.rit.edu/humanresources/policies/unethicalconduct.html" target="_blank">Concerns about Unethical Conduct, Harassment, or Descrimination</a></p></li>
+	<li><p><a href="/seo/assets/docs/2016-bi-weekly-pay-schedule.pdf" target="_blank">2016 Bi-Weekly Pay Schedule</a></p></li>
 </ul>
