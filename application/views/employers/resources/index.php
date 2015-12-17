@@ -5,7 +5,7 @@
 	<li><p><a href="/seo/assets/docs/job-description-form.pdf" target="_blank">SEO Job Description Form</a></p></li>
 	<li><p><a href="/seo/assets/docs/hire-form.pdf" target="_blank">SEO Hire Form</a></p></li>
 	<li><p><a href="/seo/assets/docs/change-form.pdf" target="_blank">SEO Change Form</a></p></li>
-	<li><p><a href="/seo/assets/docs/2016-wage-schedule.pdf" target="_blank">Student Wage Schedule</a></p></li>
+	<li><p><a href="/seo/assets/docs/2014-wage-schedule.pdf" target="_blank">Student Wage Schedule</a></p></li>
 </ul>
 
 <h1>Graduate Assistant Documents</h1>
