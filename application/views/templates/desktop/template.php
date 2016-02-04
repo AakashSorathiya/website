@@ -40,7 +40,7 @@
 		<p>
 			<a href="http://www.rit.edu/disclaimer.html">Disclaimer</a> |
 			<a href="http://www.rit.edu/copyright.html">Copyright Infringement</a> |
-			<a href="mailto:<?php echo 'jxpseo@rit.edu'; ?>">Technical Difficulties</a>
+			<a href="mailto:<?php echo 'ajfseo@rit.edu'; ?>">Technical Difficulties</a>
 		</p>
 	</div>
 

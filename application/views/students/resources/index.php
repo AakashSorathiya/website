@@ -7,6 +7,5 @@
 	<li><p><a href="/seo/assets/docs/timekeeping.pdf" target="_blank">Time Keeping Compliance FAQ</a></p></li>
 	<li><p><a href="/seo/assets/docs/2015-bi-weekly-pay-schedule.pdf" target="_blank">New 2015 Bi-Weekly Pay Schedule</a></p></li>
 	<li><p><a href="/seo/assets/docs/2014-bi-weekly-pay-schedule.pdf" target="_blank">2014 Bi-Weekly Pay Schedule</a></p></li>
-	<li><p><a href="http://finweb.rit.edu/humanresources/policies/unethicalconduct.html" target="_blank">Concerns about Unethical Conduct, Harassment, or Descrimination</a></p></li>
 	<li><p><a href="https://finweb.rit.edu/kronos/apps/timecardreview/" target="_blank">Check your Work Hours</a></p></li>
 </ul>

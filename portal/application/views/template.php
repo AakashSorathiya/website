@@ -43,7 +43,7 @@
 				</p>
 				<p>
 					<a href="http://www.rit.edu/ask/">Questions and Concerns</a> |
-					<a href="mailto:jxpseo@rit.edu">Technical Difficulties</a>
+					<a href="mailto:ajfseo@rit.edu">Technical Difficulties</a>
 				</p>
 			</div>
 
