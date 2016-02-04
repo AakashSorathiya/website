@@ -10,3 +10,5 @@ jobs/*
 /application/controllers/api.php
 
 *.DS_Store
+
+application/.DS_Store
