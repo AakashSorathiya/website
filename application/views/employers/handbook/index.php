@@ -64,8 +64,8 @@
 		<br>
 
 		<p>
-			<u><b>Joanne Stuewe</b></u><br>
-			Senior Associate Director<br>
+			<u><b>Rachel Nemeth</b></u><br>
+			Assistant Director<br>
 		</p>
 		<p>
 			<u><b>Amanda Henry</b></u><br>
@@ -73,7 +73,7 @@
 		</p>
 		<p>
 			<u><b>Lillieth Christopher</b></u><br>
-			Student Employment Assistant<br>		
+			Student Employment Assistant<br>
 		</p>
 		<p>
 			<u><b>Lizabeth Dailey</b></u><br>
@@ -280,7 +280,7 @@
 
 <div class="section">
 	<h2 id="13">13. Employment Verification Requests</h2>
-	
+
 	<p>When a request for verification of employment is received from outside the Institute, no information other than confirmation of the dates of employment may be provided without the written consent of the student or former student.</p>
 	<p>If the verification request is accompanied by a signed consent, it should be completed and mailed to the inquirer. A copy of the completed verification should be forwarded to the SEO for inclusion in the student's employment record.</p>
 
@@ -322,7 +322,7 @@
 		<li><p>Student employee's responsibility for equipment, supplies, security, record keeping, safety, etc.</p></li>
 		<li><p>Penalty for unexcused absences or tardiness.</p></li>
 	</ul>
-	
+
 	<p>If the student will be expected to take directions from personnel other than the hiring supervisor, these persons and their functions should be identified.</p>
 	<p>In periods or situations when the twenty-hour rule is suspended, and the student works more than forty hours a week, the student must be paid time-and-a-half for hours in excess of forty. If the student is employed by more than one department, overtime costs are split between all departments. Therefore, it is essential that supervisors check with the student to ensure that the forty hour limit is not exceeded.</p>
 	<p>Student employees are paid shift differential of $0.75 per hour only when assigned to "C" shift (12 Midnight - 8 AM) for exact hours worked. Student "C" shift overtime is $1.13 per hour.</p>

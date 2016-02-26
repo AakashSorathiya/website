@@ -65,8 +65,8 @@
 			</tr>
 		</thead>
 		<tr>
-			<td>Joanne Stuewe</td>
-			<td>Senior Associate Director</td>
+			<td>Rachel Nemeth</td>
+			<td>Associate Director</td>
 		</tr>
 		<tr>
 			<td>Amanda Henry</td>

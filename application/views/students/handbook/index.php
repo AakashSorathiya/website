@@ -53,8 +53,8 @@
 		<br>
 
 		<p>
-			<u><b>Joanne Stuewe</b></u><br>
-			Senior Associate Director<br>
+			<u><b>Rachel Nemeth</b></u><br>
+			Assistant Director<br>
 		</p>
 		<p>
 			<u><b>Amanda Henry</b></u><br>
@@ -62,7 +62,7 @@
 		</p>
 		<p>
 			<u><b>Lillieth Christopher</b></u><br>
-			Student Employment Assistant<br>		
+			Student Employment Assistant<br>
 		</p>
 		<p>
 			<u><b>Lizabeth Dailey</b></u><br>
@@ -345,7 +345,7 @@
 	<h2 id="19">19. Summer Employment</h2>
 
 	<p>Students who meet the following criteria are eligible to work up to 40 hours per week during summer semester if the following criteria are met:</p>
-	
+
 	<ul>
 		<li><p>Must be matriculated, and registered full-time status Spring Semester</p></li>
 		<li><p>Are registered for 0 credits for continuation of thesis for summer and/or fall that can be verified via STARS.</p></li>
