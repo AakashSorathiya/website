@@ -1,6 +1,10 @@
 <div class="navbar">
 	<div class="navbar-inner">
 		<div class="container">
+			<div class="pull-left">
+				<a href="https://twitter.com/RITSEO"><i class="icon-twitter icon-large"></i></a>
+				<a href="https://www.facebook.com/RITSEO"><i class="icon-facebook icon-large"></i></a>
+			</div>
 			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
