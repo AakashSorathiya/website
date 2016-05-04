@@ -65,7 +65,7 @@
 
 		<p>
 			<u><b>Rachel Nemeth</b></u><br>
-			Assistant Director<br>
+			Associate Director<br>
 		</p>
 		<p>
 			<u><b>Amanda Henry</b></u><br>
