@@ -47,7 +47,7 @@
 			<b>TTY:</b> (585) 475-2837
 		</p>
 		<p>
-			<b>Email:</b> <a href="mailto:seo@rit.edu">seo@rit.edu</a><br>
+			<b>Email:</b> <a href="mailto:967dept@rit.edu">967dept@rit.edu</a><br>
 			<b>Web:</b> <a href="/seo/">http://www.rit.edu/seo</a>
 		</p>
 		<br>
