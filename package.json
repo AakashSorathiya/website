@@ -1,0 +1,31 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "student employment office website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RITSEO/website.git"
+  },
+  "keywords": [
+    "SEO",
+    "website",
+    "student_employment_office",
+    "RIT",
+    "Rochester_Institute_of_Techngolo"
+  ],
+  "author": "Jacob Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RITSEO/website/issues"
+  },
+  "homepage": "https://github.com/RITSEO/website#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "vinyl-ftp": "^0.4.5"
+  }
+}
