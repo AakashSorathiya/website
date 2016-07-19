@@ -1,5 +1,5 @@
 <?php
-	echo meta( 'viewport', 'width=320.1, initial-scale=1.0, user-scalable=no' );
+	echo meta( 'viewport', 'width=device-width, initial-scale=1.0, user-scalable=no' );
 
 	echo meta( 'apple-mobile-web-app-capable', 'yes' );
 	echo meta( 'apple-mobile-web-app-title', 'RITSEO' );

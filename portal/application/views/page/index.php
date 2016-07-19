@@ -23,7 +23,7 @@
 				<li><a href="http://www.rit.edu/" target="_blank">RIT Home</a></li>
 				<li><a href="http://www.rit.edu/oce" target="_blank">OCE Home</a></li>
 				<li><a href="http://www.rit.edu/seo" target="_blank">SEO Home</a></li>
-				<li><a href="https://finweb.rit.edu/kronos/apps/timecardreview/" target="_blank">Check your Hours</a></li>
+				<li><a href="https://fastapps.rit.edu/kronosTimecard/" target="_blank">Check your Hours</a></li>
 				<li><a href="http://www.attacheinc.com/" target="_blank">Need a Resum&eacute;?</a></li>
 			</ul>
 		</div>
