@@ -5,9 +5,9 @@
 	<h2>Oracle Student Self-Service for RIT Student Workers</h2>
 
 	<p>Did you know that you can access your pay stub and other valuable payroll information on-line via the Oracle Student Self-Service application? Registration is easy. Just follow the step-by-step directions at</p>
-	
+
 	<p><a href="http://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/forms/studentselfservice.pdf">http://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/forms/studentselfservice.pdf</a></p>
-	
+
 	<p>Be sure to sure to use your RIT DCE username. Your employee number will be the first five digits of your Kronos badge number.</p>
 
 	<p>Need help? Contact the ITS HelpDesk at 475-4357 for assistance.</p>
@@ -45,7 +45,7 @@
 	<ol>
 		<li>Check to see if the student has the 2015/2016 Employment Eligibility Card with registration verification for the current semester. <u>If the student does not have an Employment Eligibility Card, do not send the paperwork to us.</u></li>
 		<li>Make sure that the SEO forms are complete prior to sending them to us. Incomplete forms cannot be processed.</li>
-		<li>Use the correct pay period start and end dates. The Bi-Weekly Pay Schedule can be found on the SEO website at <a href="http://www.rit.edu/seo">www.rit.edu/seo</a>.</li>
+		<li>Use the correct pay period start and end dates. The Bi-Weekly Pay Schedule can be found on the SEO website <a href="http://www.rit.edu/seo/assets/docs/2016-bi-weekly-pay-schedule.pdf">here</a>.</li>
 		<li>Be sure to include the NYS Acknowledgement Form with the hire paperwork for new hires (they are not necessary for rehires) and complete the form in its entirety, including the overtime rate for hourly wages <u>(the over-time rate is required for all students)</u>.  The overtime rate is 1.5 times the hourly rate.</li>
 	</ol>
 </div>
