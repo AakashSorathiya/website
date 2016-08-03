@@ -57,5 +57,5 @@
 	<li><p>Don't forget to renew your SEO Employment Eligibility Card at our office!</p></li>
 	<li><p>Make sure you are registered for full-time status for the semester.</p></li>
 	<li><p>If you are working on your thesis or project, bring us a copy of the Full-Time Equivalency Form.</p></li>
-	<li><p>All W-2, W-4, and W-5 forms as well as New York State IT-2104 and IT-2104-E forms need to be sent to Payroll in the Eastman Building on the first floor.</p></li>
+	<li><p>All W-2 and W-4 forms as well as New York State IT-2104 and IT-2104-E forms need to be sent to Payroll in the Eastman Building on the first floor.</p></li>
 </ul>

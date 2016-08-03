@@ -26,10 +26,9 @@
 
 	<p>In addition to the forms listed above, student employees may also need to fill out the forms listed below. These forms are provided for your reference. <b>All student inquiries regarding these forms should be directed to Payroll, 475-2381, Eastman Building, first floor</b>.</p>
 
-	<li><p><a href="/seo/assets/docs/w-4.pdf" target="_blank">W-4 Form</a></p></li>
-	<li><p><a href="/seo/assets/docs/w-5.pdf" target="_blank">W-5 Form</a></p></li>
-	<li><p><a href="/seo/assets/docs/it-2104.pdf" target="_blank">NYS IT-2104 Form</a></p></li>
-	<li><p><a href="/seo/assets/docs/it-2104-e.pdf" target="_blank">NYS IT-2104-E Form</a></p></li>
+	<li><p><a href="https://www.irs.gov/pub/irs-pdf/fw4.pdf" target="_blank">W-4 Form</a></p></li>
+	<li><p><a href="https://www.tax.ny.gov/pdf/current_forms/it/it2104_fill_in.pdf" target="_blank">NYS IT-2104 Form</a></p></li>
+	<li><p><a href="https://www.tax.ny.gov/pdf/current_forms/it/it2104e_fill_in.pdf" target="_blank">NYS IT-2104-E Form</a></p></li>
 </ul>
 
 <h1>Additional Resources</h1>
