@@ -7,7 +7,7 @@
 	<li><p><a href="?/students/offcampus/">Off Campus Jobs</a></p></li>
 	<li><p><a href="?/students/resources/">Student Resources</a></p></li>
 	<li><p><a href="?/students/handbook/">Student Handbook</a></p></li>
-	<li><p><a href="?/students/faq/">Frequently Asked Questions</a></p></li>
+	<li><p><a href="/seo/assets/docs/Student-Employment-Frequently-Asked-Questions.pdf">Frequently Asked Questions</a></p></li>
 </ul>
 
 <center>
