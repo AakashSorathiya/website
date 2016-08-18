@@ -43,7 +43,7 @@
 	<u><b>Send Backs:</b></u>
 	<p>To avoid having student employment paperwork returned to you, please follow these few simple steps.</p>
 	<ol>
-		<li>Check to see if the student has the 2015/2016 Employment Eligibility Card with registration verification for the current semester. <u>If the student does not have an Employment Eligibility Card, do not send the paperwork to us.</u></li>
+		<li>Check to see if the student has the 2016/2017 Employment Eligibility Card with registration verification for the current semester. <u>If the student does not have an Employment Eligibility Card, do not send the paperwork to us.</u></li>
 		<li>Make sure that the SEO forms are complete prior to sending them to us. Incomplete forms cannot be processed.</li>
 		<li>Use the correct pay period start and end dates. The Bi-Weekly Pay Schedule can be found on the SEO website <a href="http://www.rit.edu/seo/assets/docs/2016-bi-weekly-pay-schedule.pdf">here</a>.</li>
 		<li>Be sure to include the NYS Acknowledgement Form with the hire paperwork for new hires (they are not necessary for rehires) and complete the form in its entirety, including the overtime rate for hourly wages <u>(the over-time rate is required for all students)</u>.  The overtime rate is 1.5 times the hourly rate.</li>

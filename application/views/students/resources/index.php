@@ -6,6 +6,6 @@
 	<li><p><a href="http://www.rit.edu/emcs/seo/assets/docs/i-9-acceptable-documents.pdf" target="_blank">Acceptable Identification Documents</a></p></li>
 	<li><p><a href="/seo/assets/docs/timekeeping.pdf" target="_blank">Time Keeping Compliance FAQ</a></p></li>
 	<li><p><a href="/seo/assets/docs/2016-bi-weekly-pay-schedule.pdf" target="_blank">New 2016 Bi-Weekly Pay Schedule</a></p></li>
-	<li><p><a href="/seo/assets/docs/2015-bi-weekly-pay-schedule.pdf" target="_blank">2015 Bi-Weekly Pay Schedule</a></p></li>
+	<li><p><a href="https://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/docs/kronossignoffschedule.pdf" target="_blank">2017 Payroll Schedule</a></p></li>
 	<li><p><a href="https://fastapps.rit.edu/kronosTimecard/" target="_blank">Check your Work Hours</a></p></li>
 </ul>
