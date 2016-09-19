@@ -98,7 +98,7 @@ function is_jobnumber($number) {
 			$errors[] = "Post Email?";
 		}
 		if(count($errors) == 0) {
-			
+
 			// Required by security scanner before db/mail commands
 			// require_once('ExitIfSecurityScanner.php');
 			if ( mail($recipient, $subject, $msg, $header)) {
