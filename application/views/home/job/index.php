@@ -33,7 +33,7 @@
 		<img class="img-polaroid pull-left" src="./assets/img/live/shop12.jpeg" />
 		<img class="img-polaroid pull-right" src="./assets/img/live/xroads.jpeg" />
 	</div>
-	
+
 	<span class="clear"></span>
 
 	<p>There are many ways you can get a job:</p>

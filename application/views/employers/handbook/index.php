@@ -203,7 +203,7 @@
 </div>
 <hr>
 
-<div class="section">
+<!-- <div class="section">
 	<h2 id="10">10. Job Analysis</h2>
 
 	<p>Student jobs are defined in terms of their skill, experience and task requirements. Therefore, concise and accurate job descriptions specifying these criteria are required for all on-campus student positions to determine each position's rank within the RIT student job classification system.</p>
@@ -220,7 +220,7 @@
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
-<hr>
+<hr> -->
 
 <div class="section">
 	<h2 id="11">11. On-Campus Job Classification</h2>
@@ -502,13 +502,13 @@
 		</ul>
 	</div>
 
-	<div>
+	<!-- <div>
 		<u><b>For Existing Jobs:</b></u>
 		<ul>
 			<li><p>If your department already has the job on file at the SEO, you may use the <a href="?/employers/postOnCampus">On-Campus Job Posting Form</a>. Once this information has been received, the specifications for your job opening(s) will be posted within 24 hours. All job postings will be listed on the SEO website.</p></li>
 			<li><p>If you do not want to use the on-line form, you may call the SEO at 475-2631 with the job number (located in the upper right hand corner of your Job Description Form), the work hours, work days and total hours per week.</p></li>
 		</ul>
-	</div>
+	</div> -->
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
