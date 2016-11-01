@@ -29,7 +29,7 @@
 			<li class="nav-header"><a href="?/employers/">Employers</a></li>
 			<li><a href="?/employers/info">New Employer Information</a></li>
 			<!-- <li><a href="?/employers/postOnCampus">Post an On-Campus Position</a></li> -->
-			<li><a href="?/employers/removeOnCampus">Remove an On-Campus Position</a></li>
+			<!-- <li><a href="?/employers/removeOnCampus">Remove an On-Campus Position</a></li> -->
 			<!-- <li><a href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li> -->
 			<li><a href="?/employers/resources">Employer Resources</a></li>
 			<li><a href="?/employers/handbook">Employer Handbook</a></li>

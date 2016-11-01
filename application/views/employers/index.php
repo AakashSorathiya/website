@@ -5,7 +5,7 @@
 	<li><p><a href="?/employers/info/">New Employer Information</a></p></li>
 
 	<!-- <li><p><a href="?/postings/oncampus/post/">Post an On-Campus Position</a></p></li> -->
-	<li><p><a href="?/postings/oncampus/remove/">Remove an On-Campus Position</a></p></li>
+	<!-- <li><p><a href="?/postings/oncampus/remove/">Remove an On-Campus Position</a></p></li> -->
 	<!-- <li><p><a href="?/postings/offcampus/post/">Post a New Off-Campus Position</a></p></li> -->
 
 	<li><p><a href="?/employers/handbook/">Employer Handbook</a></p></li>
