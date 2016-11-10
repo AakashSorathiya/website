@@ -33,7 +33,7 @@
 			<!-- <li><a href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li> -->
 			<li><a href="?/employers/resources">Employer Resources</a></li>
 			<li><a href="?/employers/handbook">Employer Handbook</a></li>
-			<li><a href="/seo/assets/docs/2016-bi-weekly-pay-schedule.pdf" target="_blank">New 2016 Bi-Weekly Pay Schedule</a></li>
+			<li><a href="https://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/docs/kronossignoffschedulecurrent.pdf" target="_blank">2016 Pay Schedule</a></li>
 			<li><a href="https://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/docs/kronossignoffschedule.pdf" target="_blank">2017 Payroll Schedule</a></li>
 		</ul>
 	</div>
