@@ -34,9 +34,9 @@
 
 					<li><a class="ajaxLoad" href="?/employers">Employers</a></li>
 					<li><a class="ajaxLoad" href="?/employers/info">New Employer Information</a></li>
-					<!-- <li><a class="ajaxLoad" href="?/employers/postOnCampus">Post an On-Campus Position</a></li> -->
-					<!-- <li><a class="ajaxLoad" href="?/employers/removeOnCampus">Remove an On-Campus Position</a></li> -->
-					<!-- <li><a class="ajaxLoad" href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li> -->
+					<li><a class="ajaxLoad" href="?/employers/postOnCampus">Post an On-Campus Position</a></li>
+					<li><a class="ajaxLoad" href="?/employers/removeOnCampus">Remove an On-Campus Position</a></li>
+					<li><a class="ajaxLoad" href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li>
 					<li><a class="ajaxLoad" href="?/employers/resources">Employer Resources</a></li>
 					<li><a class="ajaxLoad" href="?/employers/handbook">Employer Handbook</a></li>
 				</ul>

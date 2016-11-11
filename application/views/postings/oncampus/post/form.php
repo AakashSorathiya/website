@@ -23,6 +23,7 @@
 	echo form_open('', 'id="employerForm" class="form-horizontal"');
 	echo form_fieldset( 'Job Information' );
 ?>
+<script src="https://www.google.com/recaptcha/api.js"></script>
 	<div class="control-group">
 		<label class="control-label" for="job_number">Job Number *</label>
 		<div class="controls">
@@ -183,6 +184,7 @@
 	echo form_fieldset_close();
 ?>
 	<div class="form-actions">
+		<div class="g-recaptcha" data-sitekey="6LfwbgETAAAAAKVzaIVwdfrN3xYlFnoSqPuav9ri"></div><br />
 		<button class="btn btn-primary">Submit</button>
 	</div>
 </form>

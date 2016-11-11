@@ -4,6 +4,7 @@
 	echo form_open('', 'class="form-horizontal"');
 	echo form_fieldset( 'Department Information' );
 ?>
+<script src="https://www.google.com/recaptcha/api.js"></script>
 	<div class="control-group">
 		<label class="control-label" for="department">Department</label>
 		<div class="controls">
@@ -131,6 +132,7 @@
 	echo form_fieldset_close();
 ?>
 	<div class="form-actions">
+		<div class="g-recaptcha" data-sitekey="6LfwbgETAAAAAKVzaIVwdfrN3xYlFnoSqPuav9ri"></div><br/>
 		<button class="btn btn-primary">Submit Job Description</button>
 	</div>
 </form>

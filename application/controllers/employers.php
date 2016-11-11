@@ -47,6 +47,7 @@ class Employers extends SEO_Controller {
 	{
 		// Set up sime basic infor  mation
 		$this->email->to('967dept@rit.edu');
+		//$this->email->to('mrtisd@rit.edu');
 		$this->email->from('967dept@rit.edu', 'Website: Post On Campus');
 		$this->email->subject( 'Post On Campus Position' );
 
@@ -64,6 +65,7 @@ class Employers extends SEO_Controller {
 		$this->form_validation->set_rules( 'post_phone', 'post phone', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'email', 'email', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'post_email', 'post email', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules('g-recaptcha-response','Captcha','callback_recaptcha');
 
 		// Run the validation
 		if( $this->form_validation->run() == FALSE ) {
@@ -130,8 +132,10 @@ class Employers extends SEO_Controller {
 		$this->email->from('967dept@rit.edu', 'Website: Remove On Campus');
 		$this->email->subject( 'Remove On Campus Position' );
 
+
 		// Set up form validation rules
 		$this->form_validation->set_rules( 'job_number', 'job number', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules('g-recaptcha-response','Captcha','callback_recaptcha');
 
 		// Run the validation
 		if( $this->form_validation->run() == FALSE ) {
@@ -195,7 +199,7 @@ class Employers extends SEO_Controller {
 		$this->form_validation->set_rules( 'email', 'email' ,'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'phone', 'phone' ,'trim|xss_clean' );
 		$this->form_validation->set_rules( 'fax', 'fax' ,'trim|xss_clean' );
-		
+
 		// Job Information
 		$this->form_validation->set_rules( 'title', 'job title', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'start_date', 'start date', 'required|trim|xss_clean' );
@@ -206,6 +210,7 @@ class Employers extends SEO_Controller {
 		$this->form_validation->set_rules( 'category', 'job category', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'summary', 'position summary', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'requirements', 'position requirements', 'required|trim|xss_clean' );
+		$this->form_validation->set_rules('g-recaptcha-response','Captcha','callback_recaptcha');
 
 		// Attempt to rum the validation
 		if( $this->form_validation->run() == FALSE ) {
@@ -305,7 +310,8 @@ class Employers extends SEO_Controller {
 		$this->form_validation->set_rules( 'requiredSkills', 'required skills', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'preferredSkills', 'preferred skills', 'required|trim|xss_clean' );
 		$this->form_validation->set_rules( 'jobType', 'job type', 'trim|xss_clean' );
-		
+		$this->form_validation->set_rules('g-recaptcha-response','Captcha','callback_recaptcha');
+
 		// Get the departments
 		$departments = $this->DepartmentModel->get();
 		$types = $this->TypeModel->get();
@@ -526,5 +532,17 @@ class Employers extends SEO_Controller {
 		$this->data['body'] = $this->load->view('employers/handbook/index', '', TRUE );
 
 		$this->load->view('template', $this->data);
+	}
+	public function recaptcha($str)
+	{
+		if(!isset($str))
+		{
+	  		$this->form_validation->set_message('recaptcha', 'Invalid reCAPTCHA response. Please try again.');
+	  		return FALSE;
+		}
+		else
+		{
+	  		return TRUE;
+		}
 	}
 }

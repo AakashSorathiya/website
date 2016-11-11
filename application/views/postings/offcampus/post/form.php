@@ -8,11 +8,11 @@
 	<h2>Job Posting Disclaimer</h2>
 	<p style="font-size: .85em;">
 	All job listings are posted at the discretion of the Student Employment Office (SEO). SEO will
-	not post jobs that appear to discriminate against applicants on the basis of age, sex, pregnancy, 
-	race, color, marital status, religion, sexual harassment, national origin, physical disability, 
+	not post jobs that appear to discriminate against applicants on the basis of age, sex, pregnancy,
+	race, color, marital status, religion, sexual harassment, national origin, physical disability,
 	mental disability or sexual orientation. Additionally, we will not post positions that are 'commission-only',
-	where applicants must pay a fee, unpaid opportunities, or on behalf of third-party recruiters who cannot 
-	disclose the company and brand name they are representing. SEO reserves the right to refuse to post jobs 
+	where applicants must pay a fee, unpaid opportunities, or on behalf of third-party recruiters who cannot
+	disclose the company and brand name they are representing. SEO reserves the right to refuse to post jobs
 	that do not support the interests of the college and/or the students
 	</p>
 </div>
@@ -206,7 +206,7 @@
 			<textarea required id="summary" name="summary" class="input-block-level" rows="7"><?php echo set_value( 'summary' ); ?></textarea>
 		</div>
 	</div>
-
+<script src="https://www.google.com/recaptcha/api.js"></script>
 	<div class="control-group">
 		<label class="control-label" for="requirements">Position Requirements *</label>
 		<div class="controls">
@@ -217,6 +217,7 @@
 	echo form_fieldset_close();
 ?>
 	<div class="form-actions">
+		<div class="g-recaptcha" data-sitekey="6LfwbgETAAAAAKVzaIVwdfrN3xYlFnoSqPuav9ri"></div><br/>
 		<button class="btn btn-primary">Submit</button>
 	</div>
 </form>
