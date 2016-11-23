@@ -61,7 +61,7 @@
 		<li><p>Use Employer Code <strong>15083</strong>.</p></li>
 		<li><p>Review your information for errors and then check the box for your electronic signature.</p></li>
 		<li><p>Save the information and take your original <a target="_blank" href="http://www.rit.edu/emcs/seo/assets/docs/i-9-acceptable-documents.pdf">required documents</a>
-			to the Student Employment Offic to complete Section 2 of the I-9 verification process.  This step must be completed immediately after completing Section 1 of the
+			to the Student Employment Office to complete Section 2 of the I-9 verification process.  This step must be completed immediately after completing Section 1 of the
 			I-9 form, <em>but no later than your third day of employment</em>.
 		</p></li>
 		<li><p>SEO will verify your identity and eligibility to work using the original documents that you bring with you.</p></li>
