@@ -1,3 +1,4 @@
+ga('require', 'linkid');
 <h1><b>Mission Statement</b></h1>
 <div class="clearfix">
 	<img class="img-polaroid pull-right" src="./assets/img/live/usc.jpg" />
