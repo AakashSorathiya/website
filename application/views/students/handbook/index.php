@@ -107,15 +107,13 @@
 <div class="section">
 	<h2 id="5">5. Qualifying for On-Campus Employment</h2>
 
-	<p>For on-campus student employment, you are required to obtain a Student Employment Eligibility Card from the Student Employment Office. To do so, you must first have an offer of employment and bring the Student Employment Verification Form to the Student Employment Office which your supervisor has completed for you. You’re employer will also provide you with the website and employer code so that you can complete Section I of the government mandated I-9 form on-line, prior to going to the Student Employment Office.  You must also be a full-time matriculated RIT student, AND be registered for a minimum of 12 credit hours for the semesters(s) you wish to work. You will be also be required to submit original documentation to Student Employment to complete the I-9 process to prove your employment identity and eligibility to work. <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">Required I-9 Form documentation</a>.</p>
 	<ul>
 		<li><p>Be registered for full-time status (12 credit hours for undergraduate students and 9 credit hours for graduate students).</p></li>
 		<li><p>Receive an offer of employment from an RIT employer</p></li>
 		<li><p>Receive a Student Employment Job Verification Form from your employer</p></li>
 		<li><p>Complete Section 1 of the government mandated I-9 form on-line at <a href="http://www.newi9.com">http://www.newi9.com</a>. The Employer number is 15083.  Section 1 of the I-9 Form must be completed prior to or no later than your first day of employment and prior to going to the Student Employment Office to complete Section 2 of the I-9.</p></li>
-		<li><p>Go to the Student Employment Office with your Verification Slip and required documents to complete Section 2 of the I-9 Form within three days of your job start date.  <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">Required I-9 Form documentation</a></p></li>
+		<li><p>Go to the Student Employment Office with your Verification Slip and required documents to complete Section 2 of the I-9 Form on or before your first day of employment. You must submit original documentation, copies, emails, or photos cannot be accepted.  <a href="/seo/assets/docs/i-9-acceptable-documents.pdf">Required I-9 Form documentation</a></p></li>
 	</ul>
-	<p>The SEO also functions as a brokerage service for RIT students seeking off-campus employment. To apply for off-campus jobs you must first check the <a href="?/students/offcampus">Off-Campus Job Postings</a> located on the SEO website. Directions for application are found on each job listing. It is the student's responsibility to contact the employer to schedule an interview. The employer will make the hiring decision. If at any time you encounter problems with an off-campus employer, you are advised to contact the SEO immediately at 585-475-2631.</p>
 	<p>If you are an International student, please refer to the section on Employment Eligibility for International Students.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
@@ -138,7 +136,7 @@
 	<ul>
 		<li><p>Search for employment via the SEO website or by visiting employing departments through the campus.</p></li>
 		<li><p>Once you have an offer of employment and the Employment Verification Form provided to you by your supervisor, you are required to obtain an Employment Eligibility Card from the Student Employment Office. (See Qualifying for On-Campus Employment) Be sure to bring your I-20 or DS-2019 with passport, I-94, and visa to the SEO.</p></li>
-		<li><p>After getting a job, ask your employer for a copy of your Student Employment Hire Form and take the form to the ISSO.  <b>Be sure the hire form has your employer’s original signature.</b></p></li>
+		<li><p>After getting a job, ask your employer for a copy of your Student Employment Hire Form and take the form to the ISSO.  <b>Be sure the hire form has your employer’s original signature in blue ink.</b></p></li>
 		<li><p>The ISSO will provide you with a letter of verification for the Social Security Administration.</p></li>
 		<li><p>You are now eligible to apply for your Social Security Number. The ISSO will provide you with additional information on obtaining your Social Security Card.</p></li>
 	</ul>
@@ -163,7 +161,7 @@
 	<h2 id="8">8. When to Begin Employment</h2>
 
 	<p>Students do not necessarily need to start employment when they arrive on-campus. During the academic year, students may choose, for example, to begin work in January rather than September. However, there are a number of factors to consider before deferring employment. First, students may not be able to work in certain departments that may initiate most of their hiring in the Fall Semester. In addition, starting later in the year may not allow students with FWS awards to reach the maximum earnings level of their award amount.</p>
-	<p>When students will work is dependent upon choice of jobs and willingness/ability to work during the summer. Students may work part-time during the academic year and full-time during June, July and August. During summer sessions, however, all students are employed through institutional funding. Students may also be able to work full-time when classes are not in session during break periods throughout the academic year.</p>
+	<p>When students will work is dependent upon choice of jobs and willingness/ability to work during the summer. Students may work part-time during the academic year and full-time during Summer Session, as long as they meet certain criteria for summer employment on campus.  See Summer Employment for further details. During summer sessions, however, all students are employed through institutional funding. Students may also be able to work full-time when classes are not in session during break periods throughout the academic year.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -182,11 +180,9 @@
 <div class="section">
 	<h2 id="10">10. On-Campus Job Classification and Work Hours</h2>
 
-	<p>On-Campus student jobs are classified according to the skills and experience required, going from Level 2 to Level 5, with Level 5 being the highest.</p>
+	<p>On-Campus student jobs are classified according to the skills and experience required, either Level 4 or Level 5, with Level 5 being the highest.</p>
 	<ul>
-		<li><p><b>Level 2:</b> Semi-skilled or positions with some degree of specialized knowledge or training requiring little or no experience and are routine and well-supervised. Examples of these types of positions are file clerks, food service workers, campus tour guides, office assistants, and data entry clerks.</p></li>
-		<li><p><b>Level 3:</b> Specialized knowledge and training requiring at least one year of experience, independent judgment, and at times, supervisory responsibility such as parking attendants, student ambassadors, computer operators, and athletic trainers.</p></li>
-		<li><p><b>Level 4:</b> Two or three years of specialized course work, specialized training, experience, and a high degree of independent judgment. These positions may also involve supervision of others. Examples of these types jobs are tutors/note-takers, graders, and lab assistants.</p></li>
+		<li><p><b>Level 4:</b> Semi-skilled or positions with some degree of specialized knowledge or training requiring little or no experience and are routine and well-supervised. Examples of these types of positions are file clerks, food service workers, campus tour guides, office assistants, and data entry clerks.</p></li>
 		<li><p><b>Level 5:</b> Designates a category of jobs, with wages being determined individually based on comparable or identical full-time positions. The skill requirements and employee responsibilities of such positions are identical for student employees and full-time employees. These jobs may also include those positions in which a student has worked during the previous quarter in an on-campus co-op position, and is continuing in the position as a regular student employee. These jobs also require a highly specialized skill and/or several years of previous experience. Examples of Level 5 jobs are web developers, research assistants, computer programmers, and supervisor positions.</p></li>
 	</ul>
 	<p>The average student works 8 to 12 hours a week. While classes are in session, students may work up to a maximum of 20 hours per week, if the job permits. When classes are not in session, students may be able to work up to 40 hours per week. The number of hours per week and actual hours to be worked will be determined by the employer. Most on-campus employers will work around the student's class schedule.</p>
@@ -198,8 +194,7 @@
 <div class="section">
 	<h2 id="11">11. Wages and Payment Procedures</h2>
 
-	<p>The hourly rate is based upon the level of your job as it falls within the job classification system. Each level is assigned a starting wage and two merit levels. Merit increases are based solely on performance and are granted by the student's supervisor. Merit increases can be implemented anytime throughout the year. In addition, employers have the option to pay students in approved Level 5 positions wages that may exceed those provided in the wage table.</p>
-	<p>Students are paid bi-weekly by check or direct deposit. Paychecks are distributed at the work site every other Friday and cover the hours worked for the previous two weeks. Students are paid on an hourly basis.</p>
+	<p>Students are paid bi-weekly by check or direct deposit. Paychecks are distributed at the work site every other Friday and cover the hours worked for the previous two weeks. Students are paid on an hourly basis. RIT pays NYS minimum wage for all Level 4 jobs.  Employers may pay a higher wage to Level 5 positions as they see necessary.</p>
 	<p>Direct deposit of wages is highly recommended for student workers. Forms can be obtained from the SEO or Payroll websites or by stopping by the Payroll or Student Employment Offices. Students taking advantage of the direct deposit option can view their paystubs online. For access, students must logon to <a href="http://finweb.rit.edu/controller/payroll/">http://finweb.rit.edu/controller/payroll/</a>, and follow the directions provided.</p>
 
 	<p><a href="https://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/docs/kronossignoffschedulecurrent.pdf" target="_blank">View the Current RIT Bi-Weekly Pay Schedule</a></p>
@@ -285,7 +280,7 @@
 		<li><p>RIT Student Hire Forms are to be completed and returned to the SEO for processing by the employer.</p></li>
 	</ul>
 
-	<p>The SEO will no longer publish the annual Co-op Wage Schedule. Employers may use their own discretion when assigning co-op wages. For assistance, employers may contact the Co-op Office at 475-2301 to request a copy of their most recent Co-op Wage Survey.</p>
+	<p>Employers may use their own discretion when assigning co-op wages. For assistance, employers may contact the Co-op Office at 475-2301 to request a copy of their most recent Co-op Wage Survey.</p>
 	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment semester. They are also eligible for sick pay on the ratio of two days per fall and spring semester and one sick day per summer co-op employment for a total of five sick days for the academic year. Sick day benefits are cumulative to a maximum of five (5) paid sick days per year. On-campus co-op students are not eligible for Unemployment Insurance Benefits. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
@@ -347,11 +342,11 @@
 
 	<ul>
 		<li><p>Must be matriculated, and registered full-time status Spring Semester</p></li>
-		<li><p>Are registered for 0 credits for continuation of thesis for summer and/or fall that can be verified via STARS.</p></li>
+		<li><p>Are registered for 0 credits for continuation of thesis for summer and/or fall that can be verified via Peoplesoft.</p></li>
 		<li><p><b>ANY</b> of the following:</p></li>
 		<li>
 			<ul>
-				<li><p>Must be registered for at least 4 credit hours for summer session.</p></li>
+				<li><p>Must be registered for at least 3 credit hours for summer session.</p></li>
 				<li><p>Are registered for 0 credit hours for summer, but are registered for at least 3 credit hours for fall.</p></li>
 				<li><p>Are registered for at least 3 credit hours for both summer and fall.</p></li>
 			</ul>

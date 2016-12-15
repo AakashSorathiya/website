@@ -16,10 +16,15 @@
 
 <div class="section">
 	<h2>Wage Theft Prevention Act</h2>
-	<p>The New York State Wage Theft Prevention Act went into effect on Saturday, April 9th, 2011. Employers are required to obtain a signed and dated written acknowledgement whenever a student <u>who has never worked as a student worker</u> on the RIT campus is hired by your department. Employers do not need to obtain this form from students who have previously worked on-campus.
+	<p>Employers are required to obtain a signed and dated written acknowledgement whenever a student <u>who has never worked as a student worker</u> on the RIT campus is hired by your department. Employers do not need to obtain this form from students who have previously worked on-campus.
 	<p>New York State has developed three new forms; Notice for Hourly Rate Employees, Notice for Multiple Rate Employees, and Notice for Exempt Employees. In addition to a new form format, you will notice several additional items, some of which do not apply. The acknowledgement must also include an affirmation that the employee accurately identified his/her primary language to the employer and that the notice provided by the employer was in the language identified. <u>At this time, New York State has only provided the forms in English. You will be notified of the changes or new forms as they are made available.</u>
 
-	<p>The forms can be found on the SEO website (<a href="http://www.rit.edu/seo">www.rit.edu/seo</a>) on the 'On-Campus Employment Forms' page. You will notice a new grouping of forms under the title 'NYS Notice and Acknowledgement of Pay Rate and Payday Forms'. All three forms require you to answer 'Employer Information'.</p>
+		<p>Student employees may also need to fill out the forms listed below. These forms are provided for your reference. <b>All student inquiries regarding these forms should be directed to Payroll, 475-2381, Eastman Building, first floor</b>.</p>
+	<ul>
+		<li><p><a href="https://www.irs.gov/pub/irs-pdf/fw4.pdf" target="_blank">W-4 Form</a></p></li>
+		<li><p><a href="https://www.tax.ny.gov/pdf/current_forms/it/it2104_fill_in.pdf" target="_blank">NYS IT-2104 Form</a></p></li>
+		<li><p><a href="https://www.tax.ny.gov/pdf/current_forms/it/it2104e_fill_in.pdf" target="_blank">NYS IT-2104-E Form</a></p></li>
+	</ul>
 
 	<u><b>Notice and Acknowledgement of Pay Rate and Payday:</b></u>
 	<p>This form will be used for the majority, if not all, of your student workers. This form is to be used for new student workers who work one job in your department.  All items must be answered.</p>
@@ -45,7 +50,6 @@
 	<ol>
 		<li>Check to see if the student has the 2016/2017 Employment Eligibility Card with registration verification for the current semester. <u>If the student does not have an Employment Eligibility Card, do not send the paperwork to us.</u></li>
 		<li>Make sure that the SEO forms are complete prior to sending them to us. Incomplete forms cannot be processed.</li>
-		<li>Use the correct pay period start and end dates. The Bi-Weekly Pay Schedule can be found on the SEO website <a href="https://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/docs/kronossignoffschedulecurrent.pdf">here</a>.</li>
 		<li>Be sure to include the NYS Acknowledgement Form with the hire paperwork for new hires (they are not necessary for rehires) and complete the form in its entirety, including the overtime rate for hourly wages <u>(the over-time rate is required for all students)</u>.  The overtime rate is 1.5 times the hourly rate.</li>
 	</ol>
 </div>

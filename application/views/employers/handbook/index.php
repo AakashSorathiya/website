@@ -38,9 +38,9 @@
 <div class="section">
 	<h2 id="1">1. Introduction</h2>
 
-	<p>The SEO, a division of the Co-op and Career Services Department, is responsible for administrating all aspects of on-campus student employment, and for developing and implementing the Institute's policies and procedures for student employment. In addition, the SEO provides a brokerage service for students seeking off-campus part-time employment and full-time summer employment.</p>
+	<p>The SEO, a division of the Co-op and Career Services Department, is responsible for administrating all aspects of on-campus student employment, and for developing and implementing the Institute's policies and procedures for student employment.</p>
 
-	<p>In keeping with RIT's tradition of experiential education, student employment is seen as another aspect of the student's educational experience. The skills and attitudes developed through working, whether an extension of knowledge gained in the classroom or those related to more menial endeavors, are vital components of the student's maturation. Consequently, the SEO believes that the student's on-campus and off-campus employment should accurately reflect the realities inherent in permanent employment.</p>
+	<p>In keeping with RIT's tradition of experiential education, student employment is seen as another aspect of the student's educational experience. The skills and attitudes developed through working, whether an extension of knowledge gained in the classroom or those related to more menial endeavors, are vital components of the student's maturation. Consequently, the SEO believes that the student's on-campus should accurately reflect the realities inherent in permanent employment.</p>
 
 	<p>We stress, therefore, the necessity of adherence to standards of punctuality, responsibility, neat appearance, and diligence. Furthermore, we recognize that the attainment of these objectives is ensured through cooperative effort between supervisors of student employees and the SEO.</p>
 
@@ -139,11 +139,9 @@
 	<h2 id="6">6. On-Campus Employment Eligibility</h2>
 
 	<p>For the purpose of on-campus employment, an eligible student is defined as one who has been matriculated into a degree program at RIT and is taking at least twelve (12) credit hours of course work per semester as an undergraduate student and nine (9) credit hours of course work per semester as a graduate student.</p>
-	<p>A student taking less than twelve credit hours, but at least three credit hours, may be permitted to work on-campus if he/she has been matriculated and enrolled full-time in the previous semester and is registered full-time for the following semester or intersession or has written documentation from the academic department of study that the student will return to full-time status in the next semester. In addition, students who are required to take less than twelve credits in order to complete the requirements for their degree, and who expect to graduate at the end of the semester, may be permitted to work until the end of that semester.</p>
 	<p>For on-campus <u><b>summer</b></u> employment, students do not need to be registered for classes as long as the student was registered full-time for spring semester <b>AND</b> is registered for fall semester. Students registered part or full-time for summer do not need verification of registration status for fall to work during the summer as long as they were full-time status for the spring semester.</p>
 	<p>In addition to the above, students registered part-time for credit bearing courses and part-time for non-credit bearing courses, the total of which would be equivalent to full-time status, are allowed to work as student employees. Written verification from the student’s academic department of study may be required for employment.</p>
-	<p>For on-campus employment during Intersession, students do not need to be registered during this time period(January 2 - January 24, 2014) as long as the student was registered full-time status during the fall semester and is registered for spring semester.  During Intersession, students may work up to 20 hours per week if enrolled, and up to 40 hours per week if not enrolled in classes.  The same criteria holds true for international students.</p>
-	<p>During break periods (does <b>NOT</b> include summer), a person who has matriculated and been admitted for the following semester as a full-time student may work once his/her status can be verified.</p>
+	<p>For on-campus employment during Intersession, students do not need to be registered during this time period as long as the student was registered full-time status during the fall semester and is registered for spring semester.  During Intersession, students may work up to 20 hours per week if enrolled, and up to 40 hours per week if not enrolled in classes.  The same criteria holds true for international students.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -159,7 +157,7 @@
 		<li>Receive the Employment Verification Slip from the employer with the jobs start date to bring to SEO.</li>
 		<li>The student should also be provided with the web address to complete Section 1 of the government mandated I-9 Form- <a href="http://www.newi9.com">(http://www.newi9.com). Employer number is 15083.</a></li>
 		<li>Section 1 of the I-9 Form must be completed by the student immediately after being hired, but prior to going to the Student Employment Office with their required documentation.</li>
-		<li>To ensure government mandated compliance, students must complete Section 1 of the I-9 Form prior to or no later than the first day of employment <b>AND</b> must bring required documentation to the Student Employment Office to complete Section 2 of the I-9 Form, within three days of the first day of hire.  Failure to do so may result in fines being imposed by the federal government.</li>
+		<li>To ensure government mandated compliance, students must complete Section 1 of the I-9 Form prior to or no later than the first day of employment <b>AND</b> must bring required documentation to the Student Employment Office to complete Section 2 of the I-9 Form, on or before your first day.  Failure to do so may result in fines being imposed by the federal government.</li>
 	</ul>
 	<p>Students who have met all employment criteria (completed I-9 and full-time registration status) will be given an Employment Eligibility Card, or SEO Card, the color of which will change each academic year.  An up-to-date eligibility card will verify registration status for the current semester or intersession, in addition to  I-9 and visa status, and Federal Work-Study award. <b>This card verifies to you, the employer, that the student is eligible to work on-campus.</b></p>
 	<p><u><b>Students cannot begin employment until their employment eligibility has been verified.</b></u> If the student is allowed to work prior to completing the government mandated I-9 Form, a fine of up to $10,000 may be imposed by the federal government.</p>
@@ -178,7 +176,7 @@
 		<li><p>Receive an offer of employment from an RIT on-campus employer.  Employers must provide new international student workers with the Student Employment Verification Slip to present to Student Employment before an I-9 can be completed.</p></li>
 		<li><p>Employers must also provide new hires with the web address to complete Section 1 of the government mandated I-9 Form <a href="http://www.newi9.com">(http://www.newi9.com). Employer number is 15083.</a></p></li>
 		<li><p>Complete Section 1 of the on-line I-9 Form immediately after being hired and prior to going to the Student Employment Office to complete the verification process.  This process must be completed prior to or no later than the first day of employment.</p></li>
-		<li><p>Complete Section 2 of the I-9 process in the Student Employment Office by presenting required documentation to prove identity and eligibility to work within three (3) days of the job start date.</p></li>
+		<li><p>Complete Section 2 of the I-9 process in the Student Employment Office by presenting required documentation to prove identity and eligibility to work on or before your first day.</p></li>
 		<li><p>Be enrolled full-time with a minimum of twelve credit hours (undergraduate students) or nine credit hours (graduate students) or have a full-time equivalency for the semester(s) of employment.</p></li>
 		<li><p>Have a valid F-1 visa with I-20 or valid J-1 visa with DS-2019 or I-94.</p></li>
 	</ul>
@@ -196,7 +194,7 @@
 	<h2 id="9">9. International Students Without a Social Security Card</h2>
 
 	<p>If an International Student does not already have a Social Security Card when hired, the student must be given a copy of the hire paperwork with an <u><b>original employer signature in blue ink</b></u> by the employer which will serve as verification of employment when the student applies for a Social Security Card.</p>
-	<p>Employers must also send the Hire Form to the SEO, using the International Student's University ID Number. The SEO will process the paperwork and the student will be paid. However, the International Student's paycheck will be sent to the International Student Services Office (ISSO) until the student receives his/her Social Security Card. Employers will receive an alert on the new International student's first pay day as a reminder that the student's paycheck can be picked up in the International Student Services Office until they receive their social security number.</p>
+	<p>Employers must also send the Hire Form to the SEO, using the International Student's University ID Number.</p>
 	<p>Once the International Student receives their Social Security Card, paychecks will be sent to the student's employer, or to direct deposit, whichever the student prefers.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
@@ -225,11 +223,9 @@
 <div class="section">
 	<h2 id="11">11. On-Campus Job Classification</h2>
 
-	<p>On-Campus student jobs are classified according to the skills and experience required, going from Level 2 to Level 5, with Level 5 being the highest.</p>
+	<p>On-Campus student jobs are classified according to the skills and experience required, going from Level 4 or Level 5, with Level 5 being the highest.</p>
 	<ul>
-		<li><p>Level 2: Semi-skilled or positions with some degree of specialized knowledge or training requiring little or no experience and are routine and well-supervised. Examples of these types of positions are file clerks, food service workers, campus tour guides, office assistants, and data entry clerks.</p></li>
-		<li><p>Level 3: Specialized knowledge and training requiring at least one year of experience, independent judgment, and at times, supervisory responsibility such as parking attendants, student ambassadors, computer operators, and athletic trainers.</p></li>
-		<li><p>Level 4: Two or three years of specialized course work, specialized training, experience, and a high degree of independent judgment. These positions may also involve supervision of others. Examples of these types jobs are tutors/note-takers, graders, and lab assistants.</p></li>
+		<li><p>Level 4: Semi-skilled or positions with some degree of specialized knowledge or training requiring little or no experience and are routine and well-supervised. Examples of these types of positions are file clerks, food service workers, campus tour guides, office assistants, and data entry clerks.</p></li>
 		<li><p>Level 5: Designates a category of jobs, with wages determined individually based on comparable or identical full-time positions. The skill requirements and employee responsibilities of such positions are identical for student employees and full-time employees. These jobs may also include those positions in which a student has worked during the previous quarter in an on-campus co-op position, and is continuing in the position as a regular student employee. These jobs also require a highly specialized skill and/or several years of previous experience. Examples of Level 5 jobs are web developers, research assistants, computer programmers, and supervisor positions.</p></li>
 	</ul>
 
@@ -310,9 +306,7 @@
 	<h2 id="16">16. Compensation</h2>
 
 	<p>RIT's student compensation policy has been developed with the following objectives in mind: equity among students performing comparable tasks, recognition for exceptional student employee performance, concern that student rates not impinge upon those of regular, full-time employees and ease and consistency in administrative maintenance.</p>
-	<p>Each job is classified according to the On-Campus Job Classification section above. The classification level of a job determines its wage rate. A new job is always paid at the base rate of its level, with the exception of Level 5 positions.</p>
-	<p>The student wage schedule is reviewed and if appropriate, will be revised. Changes in the <a href="/seo/assets/docs/pay-schedule.pdf">Student Wage Schedule</a> are implemented at the discretion of the Institute, and can be viewed on the SEO website.</p>
-	<p>There are two merit levels built into each job level. Performance appraisals are no longer required for merit increases. Merit rates may be rewarded any time throughout the academic year; however, it is recommended that merit increases be given at the beginning of the quarter.</p>
+	<p>All Level 4 jobs pay NYS minimum wage. A new job is always paid at the base rate of its level, with the exception of Level 5 positions.</p>
 	<p>Prior to the start of the student's employment, the supervisor should discuss the following items with the student:</p>
 
 	<ul>
@@ -336,7 +330,7 @@
 	<h2 id="17">17. Breaks</h2>
 
 	<p>In general, student employees, who work four (4) consecutive hours or more in a day, are eligible for a fifteen (15) minute "break" for each consecutive four hour shift. It is recommended that this break occur approximately midway in a shift, consistent with the scheduling constraints of a department. The break, or rest period privilege, may be withdrawn in individual cases if abused. This policy may be waived, however, in departments such as Food Service where scheduling constraints may require that student employees work a full four hour block during meal periods.</p>
-	<p>Students working 6 hours or more per day are also entitled to a minimum 30 minute unpaid lunch break. Unpaid lunch breaks up to 60 minutes may be taken upon employer approval.</p>
+	<p>Students working 6 hours or more per day are also required to a minimum 30 minute unpaid lunch break. Unpaid lunch breaks up to 60 minutes may be taken upon employer approval.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
 </div>
@@ -462,7 +456,7 @@
 		</li>
 	</ul>
 
-	<p>The SEO will no longer publish the annual Co-op Wage Schedule. Employers may use their own discretion when assigning co-op wages. For assistance, employers may contact the Co-op Office at 475-2301 to request a copy of their most recent Co-op Wage Survey.</p>
+	<p>Employers may use their own discretion when assigning co-op wages. For assistance, employers may contact the Co-op Office at 475-2301 to request a copy of their most recent Co-op Wage Survey.</p>
 	<p>Unlike regular student employees, on-campus co-op students are also eligible for holiday pay for all Institute holidays falling within a given co-op employment semester. They are also eligible for sick pay on the ratio of two days per fall and spring semester and one sick day for summer co-op employment for a total of five sick days for the academic year. Sick day benefits are cumulative to a maximum of five (5) paid sick days per year. On-campus co-op employees are exempt from FICA withholding as long as they are registered for co-op and physically working on the RIT campus.</p>
 
 	<p><a href="#top">Back to Top <i class="icon-arrow-up"></i></a></p>
@@ -498,7 +492,7 @@
 		<ul>
 			<li><p>Complete an <a href="/seo/assets/docs/job-description-form.pdf">SEO Job Description Form</a>.</p></li>
 			<li><p>If the job is to be posted on the SEO website, please provide the job start date, work hours, days, and total hours per week. This information should not be included in the body of the job description since it is subject to change.</p></li>
-			<li><p>Forward the SEO Job Description Form to the SEO where it will be evaluated and assigned a job level and position code number. A copy of the approved job description will be mailed back to the employer, and if requested, the job will be posted on the website.</p></li>
+			<li><p>Forward the SEO Job Description Form to the SEO where it will be evaluated and assigned a job level and position code number and receive a job number. A copy of the approved job description will be mailed back to the employer, and if requested, the job will be posted on the website.</p></li>
 		</ul>
 	</div>
 

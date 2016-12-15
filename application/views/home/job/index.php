@@ -62,7 +62,7 @@
 		<li><p>Review your information for errors and then check the box for your electronic signature.</p></li>
 		<li><p>Save the information and take your original <a target="_blank" href="http://www.rit.edu/emcs/seo/assets/docs/i-9-acceptable-documents.pdf">required documents</a>
 			to the Student Employment Office to complete Section 2 of the I-9 verification process.  This step must be completed immediately after completing Section 1 of the
-			I-9 form, <em>but no later than your third day of employment</em>.
+			I-9 form, <em>on or before your first day</em>.
 		</p></li>
 		<li><p>SEO will verify your identity and eligibility to work using the original documents that you bring with you.</p></li>
 		<li><p>Once SEO has completed Section 2, the I-9 process will be complete!</p></li>

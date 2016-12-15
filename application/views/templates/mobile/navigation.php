@@ -19,7 +19,6 @@
 					<li><a class="ajaxLoad" href="?/home/news">Announcements</a></li>
 					<li><a class="ajaxLoad" href="?/home/calendar">Calendar</a></li>
 					<li><a class="ajaxLoad" href="?/home/contact">Contact Us</a></li>
-					<li><a href="/seo/assets/docs/2016-wage-schedule.pdf" target="_blank">2016 Student Wages</a></li>
 					<li><a href="http://www.newi9.com/" target="_blank">I-9 Process</a></li>
 					<li class="divider"></li>
 
@@ -33,7 +32,6 @@
 					<li class="divider"></li>
 
 					<li><a class="ajaxLoad" href="?/employers">Employers</a></li>
-					<li><a class="ajaxLoad" href="?/employers/info">New Employer Information</a></li>
 					<li><a class="ajaxLoad" href="?/employers/postOnCampus">Post an On-Campus Position</a></li>
 					<li><a class="ajaxLoad" href="?/employers/removeOnCampus">Remove an On-Campus Position</a></li>
 					<li><a class="ajaxLoad" href="?/employers/postOffCampus">Post a New Off-Campus Position</a></li>

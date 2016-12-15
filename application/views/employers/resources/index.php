@@ -5,7 +5,6 @@
 	<li><p><a href="/seo/assets/docs/job-description-form.pdf" target="_blank">SEO Job Description Form</a></p></li>
 	<li><p><a href="/seo/assets/docs/hire-form.pdf" target="_blank">SEO Hire Form</a></p></li>
 	<li><p><a href="/seo/assets/docs/change-form.pdf" target="_blank">SEO Change Form</a></p></li>
-	<li><p><a href="/seo/assets/docs/2016-wage-schedule.pdf" target="_blank">Student Wage Schedule</a></p></li>
 </ul>
 
 <h1>Graduate Assistant Documents</h1>
@@ -35,6 +34,4 @@
 <ul>
 	<li><p><a href="/seo/assets/docs/student-appraisal-form.pdf" target="_blank">Student Employee Appraisal Form</a></p></li>
 	<li><p><a href="/seo/assets/docs/confidentiality-agreement.pdf" target="_blank">Confidentiality Agreement</a></p></li>
-	<li><p><a href="/seo/assets/docs/timekeeping.pdf" target="_blank">Time Keeping Compliance FAQ</a></p></li>
-	<li><p><a href="https://www.rit.edu/fa/controller/sites/rit.edu.fa.controller/files/files/docs/kronossignoffschedulecurrent.pdf" target="_blank">2016 Pay Schedule</a></p></li>
 </ul>
