@@ -34,7 +34,7 @@
 
 	<u><b>Notice for Exempt Employee:</b></u>
 	<p>This form will be used for Graduate Teaching Assistants (GTA's) only. Employers may disregard item '7 - Overtime Pay Rate'. You may leave these two items blank.</p>
-	<p>Once the appropriate form is completed and signed, a copy must be given to the student and the original must be attached to the SEO Hire Form and sent to Student Employment where the forms will be kept for six years. There will be changes to this process as New York State makes more information available. In the meanwhile, your cooperation with the process outlined above will be greatly appreciated.</p>
+	<p>Once the appropriate form is completed and signed, a copy must be given to the student, a copy must remain in the department in the student file, and the original must be attached to the SEO Hire Form and sent to Student Employment where the forms will be kept for six years. There will be changes to this process as New York State makes more information available. In the meanwhile, your cooperation with the process outlined above will be greatly appreciated.</p>
 	<p>This notice must be given to employees on an official form from the New York State Department of Labor at the time of hiring, before they do any work.  The employer must complete the form and have the employee sign a statement of acknowledgement of the written notice and keep the signed statement for 6 years.</p>
 </div>
 <hr>
