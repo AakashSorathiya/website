@@ -7,10 +7,10 @@
 		<li><p><a href="?/students/offcampus/cl">Clerical</a></p></li>
 		<li><p><a href="?/students/offcampus/cs">Community Service</a></p></li>
 		<li><p><a href="?/students/offcampus/ct">Computer / Technical</a></p></li>
-		<li><p><a href="?/students/offcampus/fs">Food Service</a></p></li>
+		<li><p><a href="?/students/offcampus/fs">Food Service / Nutrition</a></p></li>
 		<li><p><a href="?/students/offcampus/ho">Holiday</a></p></li>
 		<li><p><a href="?/students/offcampus/mt">Maintenance</a></p></li>
-		<li><p><a href="?/students/offcampus/mc">Miscellaneous</a></p></li>
+		<li><p><a href="?/students/offcampus/mc">Miscellaneous / Graphic Design / Social Media</a></p></li>
 		<li><p><a href="?/students/offcampus/ps">Personal Service</a></p></li>
 		<li><p><a href="?/students/offcampus/sa">Sales</a></p></li>
 		<li><p><a href="?/students/offcampus/su">Summer</a></p></li>

@@ -188,9 +188,9 @@
 				<option value="Clerical">Clerical</option>
 				<option value="Computer / Technical">Computer / Technical</option>
 				<option value="Community Service">Community Service</option>
-				<option value="Food Service">Food Service</option>
+				<option value="Food Service">Food Service / Nutrition</option>
 				<option value="Holiday">Holiday</option>
-				<option value="Miscellaneous">Miscellaneous</option>
+				<option value="Miscellaneous">Miscellaneous / Graphic Design / Social Media</option>
 				<option value="Maintenance">Maintenance</option>
 				<option value="Personal Services">Personal Services</option>
 				<option value="Sales">Sales</option>
