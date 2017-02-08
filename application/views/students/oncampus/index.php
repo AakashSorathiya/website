@@ -8,9 +8,9 @@
 		<li><p><a href="?/students/oncampus/cl">Clerical</a></p></li>
 		<li><p><a href="?/students/oncampus/cs">Community Service</a></p></li>
 		<li><p><a href="?/students/oncampus/ct">Computer / Technical</a></p></li>
-		<li><p><a href="?/students/oncampus/fs">Food Service</a></p></li>
+		<li><p><a href="?/students/oncampus/fs">Food Service / Nutrition</a></p></li>
 		<li><p><a href="?/students/oncampus/mt">Maintenance</a></p></li>
-		<li><p><a href="?/students/oncampus/mc">Miscellaneous</a></p></li>
+		<li><p><a href="?/students/oncampus/mc">Miscellaneous / Graphic Design / Social Media</a></p></li>
 		<li><p><a href="?/students/oncampus/sv">Services</a></p></li>
 	</ul>
 	<img class="img-polaroid pull-right" src="/seo/assets/img/live/oncampus.jpg" />
